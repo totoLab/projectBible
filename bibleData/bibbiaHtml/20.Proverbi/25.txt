@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Proverbi  25: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Proverbi</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a> 
+<a href="10.htm#0" class="chap">10</a> 
+<a href="11.htm#0" class="chap">11</a> 
+<a href="12.htm#0" class="chap">12</a> 
+<a href="13.htm#0" class="chap">13</a> 
+<a href="14.htm#0" class="chap">14</a> 
+<a href="15.htm#0" class="chap">15</a> 
+<a href="16.htm#0" class="chap">16</a> 
+<a href="17.htm#0" class="chap">17</a> 
+<a href="18.htm#0" class="chap">18</a> 
+<a href="19.htm#0" class="chap">19</a> 
+<a href="20.htm#0" class="chap">20</a> 
+<a href="21.htm#0" class="chap">21</a> 
+<a href="22.htm#0" class="chap">22</a> 
+<a href="23.htm#0" class="chap">23</a> 
+<a href="24.htm#0" class="chap">24</a>  
+<span class="chapread">25</span> 
+<a href="26.htm#0" class="chap">26</a> 
+<a href="27.htm#0" class="chap">27</a> 
+<a href="28.htm#0" class="chap">28</a> 
+<a href="29.htm#0" class="chap">29</a> 
+<a href="30.htm#0" class="chap">30</a> 
+<a href="31.htm#0" class="chap">31</a> 
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 25 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>Ecco altri proverbi di Salomone, raccolti dalla gente di Ezechia, re di Giuda.   
+<br /><span class="verse" id="2">2 </span>È gloria di Dio nascondere le cose; ma la gloria dei re sta nell’investigarle.   
+<br /><span class="verse" id="3">3 </span>L’altezza del cielo, la profondità della terra e il cuore dei re non si possono investigare.   
+<br /><span class="verse" id="4">4 </span>Togli dall’argento le scorie, e ne uscirà un vaso per l’artefice;   
+<br /><span class="verse" id="5">5 </span>togli l’empio dalla presenza del re, e il suo trono sarà reso stabile dalla giustizia.   
+<br /><span class="verse" id="6">6 </span>Non fare il vanaglorioso in presenza del re, e non ti porre nel luogo dei grandi;   
+<br /><span class="verse" id="7">7 </span>poiché è meglio ti sia detto: ‘Sali qui’, anziché essere abbassato davanti al principe che gli occhi tuoi hanno veduto.   
+<br /><span class="verse" id="8">8 </span>Non t’affrettare a intentar processi, che alla fine tu non sappia che fare, quando il tuo prossimo t’avrà svergognato.   
+<br /><span class="verse" id="9">9 </span>Difendi la tua causa contro il tuo prossimo, ma non rivelare il segreto d’un altro,   
+<br /><span class="verse" id="10">10 </span>onde chi t’ode non t’abbia a vituperare, e la tua infamia non si cancelli più.   
+<br /><span class="verse" id="11">11 </span>Le parole dette a tempo son come pomi d’oro in vasi d’argento cesellato.   
+<br /><span class="verse" id="12">12 </span>Per un orecchio docile, chi riprende con saviezza è un anello d’oro, un ornamento d’oro fino.   
+<br /><span class="verse" id="13">13 </span>Il messaggero fedele, per quelli che lo mandano, è come il fresco della neve al tempo della mèsse; esso ristora l’anima del suo padrone.   
+<br /><span class="verse" id="14">14 </span>Nuvole e vento, ma punta pioggia; ecco l’uomo che si vanta falsamente della sua liberalità.   
+<br /><span class="verse" id="15">15 </span>Con la pazienza si piega un principe, e la lingua dolce spezza dell’ossa.   
+<br /><span class="verse" id="16">16 </span>Se trovi del miele, mangiane quanto ti basta; che, satollandotene, tu non abbia poi a vomitarlo.   
+<br /><span class="verse" id="17">17 </span>Metti di rado il piede in casa del prossimo, ond’egli, stufandosi di te, non abbia ad odiarti.   
+<br /><span class="verse" id="18">18 </span>L’uomo che attesta il falso contro il suo prossimo, è un martello, una spada, una freccia acuta.   
+<br /><span class="verse" id="19">19 </span>La fiducia in un perfido, nel dì della distretta, è un dente rotto, un piede slogato.   
+<br /><span class="verse" id="20">20 </span>Cantar delle canzoni a un cuor dolente è come togliersi l’abito in giorno di freddo, e mettere aceto sul nitro.   
+<br /><span class="verse" id="21">21 </span>Se il tuo nemico ha fame, dagli del pane da mangiare: se ha sete, dagli dell’acqua da bere;   
+<br /><span class="verse" id="22">22 </span>ché, così, raunerai dei carboni accesi sul suo capo, e l’Eterno ti ricompenserà.   
+<br /><span class="verse" id="23">23 </span>Il vento del nord porta la pioggia, e la lingua che sparla di nascosto, fa oscurare il viso.   
+<br /><span class="verse" id="24">24 </span>Meglio abitare sul canto d’un tetto, che in una gran casa con una moglie rissosa.   
+<br /><span class="verse" id="25">25 </span>Una buona notizia da paese lontano è come acqua fresca a persona stanca ed assetata.   
+<br /><span class="verse" id="26">26 </span>Il giusto che vacilla davanti all’empio, è come una fontana torbida e una sorgente inquinata.   
+<br /><span class="verse" id="27">27 </span>Mangiar troppo miele, non è bene, ma scrutare cose difficili è un onore.   
+<br /><span class="verse" id="28">28 </span>L’uomo che non si sa padroneggiare, è una città smantellata, priva di mura. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="26.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Giona 4: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Giona</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a>  
+<span class="chapread">4</span>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 4 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>Ma Giona ne provò un gran dispiacere, e ne fu irritato; e pregò l’Eterno, dicendo:   
+<br /><span class="verse" id="2">2 </span>‘O Eterno, non è egli questo ch’io dicevo, mentr’ero ancora nel mio paese? Perciò m’affrettai a fuggirmene a Tarsis; perché sapevo che sei un Dio misericordioso, pietoso, lento all’ira, di gran benignità, e che ti penti del male minacciato.   
+<br /><span class="verse" id="3">3 </span>Or dunque, o Eterno, ti prego, riprenditi la mia vita; poiché per me val meglio morire che vivere’.   
+<br /><span class="verse" id="4">4 </span>E l’Eterno gli disse: ‘Fai tu bene a irritarti così?’   
+<br /><span class="verse" id="5">5 </span>Poi Giona uscì dalla città, e si mise a sedere a oriente della città; si fece quivi una capanna, e vi sedette sotto, all’ombra, stando a vedere quello che succederebbe alla città.   
+<br /><span class="verse" id="6">6 </span>E Dio, l’Eterno, per guarirlo della sua irritazione, fece crescere un ricino, che montò su di sopra a Giona per fargli ombra al capo; e Giona provò una grandissima gioia a motivo di quel ricino.   
+<br /><span class="verse" id="7">7 </span>Ma l’indomani, allo spuntar dell’alba, Iddio fece venire un verme, il quale attaccò il ricino, ed esso si seccò.   
+<br /><span class="verse" id="8">8 </span>E come il sole fu levato, Iddio fece soffiare un vento soffocante d’oriente, e il sole picchiò sul capo di Giona, sì ch’egli venne meno, e chiese di morire, dicendo: ‘Meglio è per me morire che vivere’.   
+<br /><span class="verse" id="9">9 </span>E Dio disse a Giona: ‘Fai tu bene a irritarti così a motivo del ricino?’ Egli rispose: ‘Sì, faccio bene a irritarmi fino alla morte’.   
+<br /><span class="verse" id="10">10 </span>E l’Eterno disse: ‘Tu hai pietà del ricino per il quale non hai faticato, e che non hai fatto crescere, che è nato in una notte e in una notte è perito;   
+<br /><span class="verse" id="11">11 </span>e io non avrei pietà di Ninive, la gran città, nella quale si trovano più di centoventimila persone che non sanno distinguere la loro destra dalla loro sinistra, e tanta quantità di bestiame?’</p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="../33/1.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

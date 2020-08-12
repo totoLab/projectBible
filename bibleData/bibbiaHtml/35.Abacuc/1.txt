@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Habacuc   1: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Habacuc</h1>
+ <p class="ym-noprint">  
+<span class="chapread">1</span> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 1 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>Oracolo che il profeta Habacuc ebbe per visione.   
+<br /><span class="verse" id="2">2 </span>Fino a quando, o Eterno, griderò, senza che tu mi dia ascolto? Io grido a te: ‘Violenza!’ e tu non salvi.   
+<br /><span class="verse" id="3">3 </span>Perché mi fai veder l’iniquità, e tolleri lo spettacolo della perversità? e perché mi stanno dinanzi la rapina e la violenza? Vi son liti, e sorge la discordia.   
+<br /><span class="verse" id="4">4 </span>Perciò la legge è senza forza e il diritto non fa strada, perché l’empio aggira il giusto, e il diritto n’esce pervertito.   
+<br /><span class="verse" id="5">5 </span>Vedete fra le nazioni, guardate, maravigliatevi e siate stupefatti! Poiché io sto per fare ai vostri giorni un’opera, che voi non credereste, se ve la raccontassero.   
+<br /><span class="verse" id="6">6 </span>Perché, ecco, io sto per suscitare i Caldei, questa nazione aspra e impetuosa, che percorre la terra quant’è larga, per impadronirsi di dimore che non son sue.   
+<br /><span class="verse" id="7">7 </span>È terribile, formidabile; il suo diritto e la sua grandezza emanano da lui stesso.   
+<br /><span class="verse" id="8">8 </span>I suoi cavalli son più veloci de’ leopardi, più agili de’ lupi sulla sera; i suoi cavalieri procedon con fierezza; i suoi cavalieri vengon di lontano, volan come l’aquila che piomba sulla preda.   
+<br /><span class="verse" id="9">9 </span>Tutta quella gente viene per darsi alla violenza, le lor facce bramose son tese in avanti, e ammassan prigionieri senza numero come la rena.   
+<br /><span class="verse" id="10">10 </span>Si fan beffe dei re, e i principi son per essi oggetto di scherno; si ridono di tutte le fortezze; ammontano un po’ di terra, e le prendono.   
+<br /><span class="verse" id="11">11 </span>Poi passan come il vento; passan oltre e si rendon colpevoli, questa lor forza è il loro dio.   
+<br /><span class="verse" id="12">12 </span>Non sei tu ab antico, o Eterno, il mio Dio, il mio Santo? Noi non morremo! O Eterno, tu l’hai posto, questo popolo, per esercitare i tuoi giudizi, tu, o Ròcca, l’hai stabilito per infliggere i tuoi castighi.   
+<br /><span class="verse" id="13">13 </span>Tu, che hai gli occhi troppo puri per sopportar la vista del male, e che non puoi tollerar lo spettacolo dell’iniquità, perché guardi i perfidi, e taci quando il malvagio divora l’uomo ch’è più giusto di lui?   
+<br /><span class="verse" id="14">14 </span>E perché rendi gli uomini come i pesci del mare e come i rettili, che non hanno signore?   
+<br /><span class="verse" id="15">15 </span>Il Caldeo li trae tutti su con l’amo, li piglia nella sua rete, li raccoglie nel suo giacchio; perciò si rallegra ed esulta.   
+<br /><span class="verse" id="16">16 </span>Per questo fa sacrifizi alla sua rete, e offre profumi al suo giacchio; perché per essi la sua parte è grassa, e il suo cibo è succulento.   
+<br /><span class="verse" id="17">17 </span>Dev’egli per questo seguitare a vuotar la sua rete, e massacrar del continuo le nazioni senza pietà?</p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="2.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

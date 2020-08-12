@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Daniele 1: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Daniele</h1>
+ <p class="ym-noprint">  
+<span class="chapread">1</span> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a> 
+<a href="10.htm#0" class="chap">10</a> 
+<a href="11.htm#0" class="chap">11</a> 
+<a href="12.htm#0" class="chap">12</a> 
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 1 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>Il terzo anno del regno di Joiakim, re di Giuda, Nebucadnetsar, re di Babilonia, venne contro Gerusalemme, e l’assediò.   
+<br /><span class="verse" id="2">2 </span>Il Signore gli diede nelle mani Joiakim, re di Giuda, e una parte degli utensili della casa di Dio; e Nebucadnetsar portò gli utensili nel paese di Scinear, nella casa del suo dio, e li mise nella casa del tesoro del suo dio.   
+<br /><span class="verse" id="3">3 </span>E il re disse ad Ashpenaz, capo de’ suoi eunuchi, di menargli alcuni de’ figliuoli d’Israele di stirpe reale e di famiglie nobili,   
+<br /><span class="verse" id="4">4 </span>giovani senza difetti fisici, belli d’aspetto, dotati d’ogni sorta di talenti, istruiti e intelligenti, tali che avessero attitudine a stare nel palazzo del re; e d’insegnar loro la letteratura e la lingua de’ Caldei.   
+<br /><span class="verse" id="5">5 </span>Il re assegnò loro una porzione giornaliera delle vivande della mensa reale, e del vino ch’egli beveva; e disse di mantenerli per tre anni, dopo i quali sarebbero passati al servizio del re.   
+<br /><span class="verse" id="6">6 </span>Or fra questi c’erano, di tra i figliuoli di Giuda, Daniele, Hanania, Mishael e Azaria;   
+<br /><span class="verse" id="7">7 </span>e il capo degli eunuchi diede loro altri nomi: a Daniele pose nome Beltsatsar; ad Hanania, Shadrac; a Mishael, Meshac, e ad Azaria, Abed-nego.   
+<br /><span class="verse" id="8">8 </span>E Daniele prese in cuor suo la risoluzione di non contaminarsi con le vivande del re e col vino che il re beveva; e chiese al capo degli eunuchi di non obbligarlo a contaminarsi;   
+<br /><span class="verse" id="9">9 </span>e Dio fece trovare a Daniele grazia e compassione presso il capo degli eunuchi.   
+<br /><span class="verse" id="10">10 </span>E il capo degli eunuchi disse a Daniele: ‘Io temo il re, mio signore, il quale ha fissato il vostro cibo e le vostre bevande; e perché vedrebb’egli il vostro volto più triste di quello de’ giovani della vostra medesima età? Voi mettereste in pericolo la mia testa presso il re’.   
+<br /><span class="verse" id="11">11 </span>Allora Daniele disse al maggiordomo, al quale il capo degli eunuchi aveva affidato la cura di Daniele, di Hanania, di Mishael e d’Azaria:   
+<br /><span class="verse" id="12">12 </span>‘Ti prego, fa’ coi tuoi servi una prova di dieci giorni, e ci siano dati de’ legumi per mangiare, e dell’acqua per bere;   
+<br /><span class="verse" id="13">13 </span>poi ti si faccia vedere l’aspetto nostro e l’aspetto de’ giovani che mangiano le vivande del re; e secondo quel che vedrai, ti regolerai coi tuoi servi’.   
+<br /><span class="verse" id="14">14 </span>Quegli accordò loro quanto domandavano, e li mise alla prova per dieci giorni.   
+<br /><span class="verse" id="15">15 </span>E alla fine de’ dieci giorni, essi avevano miglior aspetto ed erano più grassi di tutti i giovani che aveano mangiato le vivande del re.   
+<br /><span class="verse" id="16">16 </span>Così il maggiordomo portò via il cibo e il vino ch’eran loro destinati, e dette loro de’ legumi.   
+<br /><span class="verse" id="17">17 </span>E a tutti questi quattro giovani Iddio dette conoscenza e intelligenza in tutta la letteratura, e sapienza; e Daniele s’intendeva d’ogni sorta di visioni e di sogni.   
+<br /><span class="verse" id="18">18 </span>E alla fine del tempo fissato dal re perché que’ giovani gli fossero menati, il capo degli eunuchi li presentò a Nebucadnetsar.   
+<br /><span class="verse" id="19">19 </span>Il re parlò con loro; e fra tutti que’ giovani non se ne trovò alcuno che fosse come Daniele, Hanania, Mishael e Azaria; e questi furono ammessi al servizio del re.   
+<br /><span class="verse" id="20">20 </span>E su tutti i punti che richiedevano sapienza e intelletto, e sui quali il re li interrogasse, il re li trovava dieci volte superiori a tutti i magi ed astrologi ch’erano in tutto il suo regno.   
+<br /><span class="verse" id="21">21 </span>Così continuò Daniele fino al primo anno del re Ciro. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="2.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

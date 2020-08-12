@@ -1,0 +1,119 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Rut 3: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Rut</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a>  
+<span class="chapread">3</span> 
+<a href="4.htm#0" class="chap">4</a>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 3 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>Naomi, sua suocera, le disse: ‘Figliuola mia, io vorrei assicurare il tuo riposo perché tu fossi felice.   
+<br /><span class="verse" id="2">2 </span>Ora Boaz, con le serve del quale tu sei stata, non è egli nostro parente? Ecco, stasera deve ventolar l’orzo nell’aia.   
+<br /><span class="verse" id="3">3 </span>Làvati dunque, ungiti, vèstiti, e scendi all’aia, ma non ti far riconoscere da lui, prima ch’egli abbia finito di mangiare e di bere.   
+<br /><span class="verse" id="4">4 </span>E quando se n’andrà a dormire, osserva il luogo dov’egli dorme; poi va’, alzagli la coperta dalla parte de’ piedi, e mettiti lì a giacere; ed egli ti dirà quello che tu debba fare’.   
+<br /><span class="verse" id="5">5 </span>Rut le rispose: ‘Farò tutto quello che dici’.   
+<br /><span class="verse" id="6">6 </span>E scese all’aia, e fece tutto quello che la suocera le aveva ordinato.   
+<br /><span class="verse" id="7">7 </span>Boaz mangiò e bevve e, col cuor allegro, se n’andò a dormire presso al monte delle mannelle. Allora ella venne pian piano, gli alzò la coperta dalla parte de’ piedi, e si mise a giacere.   
+<br /><span class="verse" id="8">8 </span>Verso mezzanotte, quell’uomo si svegliò di soprassalto, si voltò, ed ecco che una donna gli giaceva ai piedi.   
+<br /><span class="verse" id="9">9 </span>‘Chi sei tu?’ le disse. Ed ella rispose: ‘Sono Rut tua serva; stendi il lembo del tuo mantello sulla tua serva, perché tu hai il diritto di riscatto’.   
+<br /><span class="verse" id="10">10 </span>Ed egli a lei: ‘Sii benedetta dall’Eterno, figliuola mia! La tua bontà d’adesso supera quella di prima, giacché non sei andata dietro a de’ giovani, poveri o ricchi.   
+<br /><span class="verse" id="11">11 </span>Ora dunque, non temere, figliuola mia; io farò per te tutto quello che dici, poiché tutti qui sanno che sei una donna virtuosa.   
+<br /><span class="verse" id="12">12 </span>Or è vero ch’io ho il diritto di riscatto; ma ve n’è un altro che t’è parente più prossimo di me.   
+<br /><span class="verse" id="13">13 </span>Passa qui la notte; e domattina, se quello vorrà far valere il suo diritto su di te, va bene, lo faccia pure; ma se non gli piacerà di far valere il suo diritto, io farò valere il mio, com’è vero che l’Eterno vive! Sta’ coricata fino al mattino’.   
+<br /><span class="verse" id="14">14 </span>Ed ella rimase coricata ai suoi piedi fino alla mattina; poi si alzò, prima che due si potessero riconoscere l’un l’altro; giacché Boaz avea detto: ‘Nessuno sappia che questa donna è venuta nell’aia!’   
+<br /><span class="verse" id="15">15 </span>Poi aggiunse: ‘Porta qua il mantello che hai addosso, e tienlo con ambe le mani’. Ella lo tenne su, ed egli vi misurò dentro sei misure d’orzo, e glielo mise in ispalla; poi se ne venne in città.   
+<br /><span class="verse" id="16">16 </span>Rut tornò dalla sua suocera, che le disse: ‘Sei tu, figliuola mia?’ Ed ella le raccontò tutto quanto quell’uomo avea fatto per lei,   
+<br /><span class="verse" id="17">17 </span>e aggiunse: ‘M’ha anche dato queste sei misure d’orzo; perché m’ha detto: Non devi tornare dalla tua suocera con le mani vuote’.   
+<br /><span class="verse" id="18">18 </span>E Naomi disse: ‘Rimani qui, figliuola mia, finché tu vegga come la cosa riuscirà; poiché quest’uomo non si darà posa, finché non abbia oggi stesso terminato quest’affare’.</p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="4.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

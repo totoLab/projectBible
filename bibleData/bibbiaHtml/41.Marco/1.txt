@@ -1,0 +1,158 @@
+﻿<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Giovanni il Battezzatore predica nel deserto : Vangelio secondo S. Marco, Capitolo  1</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Marco</h1>
+ <p class="ym-noprint">  
+<span class="chapread">1</span> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a> 
+<a href="10.htm#0" class="chap">10</a> 
+<a href="11.htm#0" class="chap">11</a> 
+<a href="12.htm#0" class="chap">12</a> 
+<a href="13.htm#0" class="chap">13</a> 
+<a href="14.htm#0" class="chap">14</a> 
+<a href="15.htm#0" class="chap">15</a> 
+<a href="16.htm#0" class="chap">16</a>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 1 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span> Principio dell’evangelo di Gesù Cristo, Figliuolo di Dio.    
+<br /><span class="verse" id="2">2 </span>Secondo ch’egli è scritto nel profeta Isaia: Ecco, io mando davanti a te il mio messaggero a prepararti la via...   
+<br /><span class="verse" id="3">3 </span>V’è una voce di uno che grida nel deserto: Preparate la via del Signore, addirizzate i suoi sentieri,   
+<br /><span class="verse" id="4">4 </span>apparve Giovanni il Battista nel deserto predicando un battesimo di ravvedimento per la remissione dei peccati.   
+<br /><span class="verse" id="5">5 </span>E tutto il paese della Giudea e tutti quei di Gerusalemme accorrevano a lui; ed erano da lui battezzati nel fiume Giordano, confessando i loro peccati.   
+<br /><span class="verse" id="6">6 </span>Or Giovanni era vestito di pel di cammello, con una cintura di cuoio intorno ai fianchi, e si nutriva di locuste e di miele selvatico.   
+<br /><span class="verse" id="7">7 </span>E predicava, dicendo: Dopo di me vien colui che è più forte di me; al quale io non son degno di chinarmi a sciogliere il legaccio de’ calzari.   
+<br /><span class="verse" id="8">8 </span>Io vi ho battezzati con acqua, ma lui vi battezzerà con lo Spirito Santo.   
+<br /><span class="verse" id="9">9 </span>Ed avvenne in que’ giorni che Gesù venne da Nazaret di Galilea e fu battezzato da Giovanni nel Giordano.   
+<br /><span class="verse" id="10">10 </span>E ad un tratto, com’egli saliva fuori dell’acqua, vide fendersi i cieli, e lo Spirito scendere su di lui in somiglianza di colomba.   
+<br /><span class="verse" id="11">11 </span>E una voce venne dai cieli: Tu sei il mio diletto Figliuolo; in te mi sono compiaciuto.   
+<br /><span class="verse" id="12">12 </span>E subito dopo lo Spirito lo sospinse nel deserto;   
+<br /><span class="verse" id="13">13 </span>e nel deserto rimase per quaranta giorni, tentato da Satana; e stava tra le fiere e gli angeli lo servivano.   
+<br /><span class="verse" id="14">14 </span>Dopo che Giovanni fu messo in prigione, Gesù si recò in Galilea, predicando l’evangelo di Dio e dicendo:   
+<br /><span class="verse" id="15">15 </span>Il tempo è compiuto e il regno di Dio è vicino; ravvedetevi e credete all’evangelo.   
+<br /><span class="verse" id="16">16 </span>Or passando lungo il mar della Galilea, egli vide Simone e Andrea, il fratello di Simone, che gettavano la rete in mare, perché erano pescatori. E Gesù disse loro:   
+<br /><span class="verse" id="17">17 </span>Seguitemi, ed io farò di voi de’ pescatori d’uomini.   
+<br /><span class="verse" id="18">18 </span>Ed essi, lasciate subito le reti, lo seguirono.   
+<br /><span class="verse" id="19">19 </span>Poi, spintosi un po’ più oltre, vide Giacomo di Zebedeo e Giovanni suo fratello, che anch’essi in barca rassettavano le reti;   
+<br /><span class="verse" id="20">20 </span>e subito li chiamò; ed essi, lasciato Zebedeo loro padre nella barca con gli operai, se n’andarono dietro a lui.   
+<br /><span class="verse" id="21">21 </span>E vennero in Capernaum; e subito, il sabato, Gesù, entrato nella sinagoga, insegnava.   
+<br /><span class="verse" id="22">22 </span>E la gente stupiva della sua dottrina, perch’egli li ammaestrava come avente autorità e non come gli scribi.   
+<br /><span class="verse" id="23">23 </span>In quel mentre, si trovava nella loro sinagoga un uomo posseduto da uno spirito immondo, il quale prese a gridare:   
+<br /><span class="verse" id="24">24 </span>Che v’è fra noi e te, o Gesù Nazareno? Se’ tu venuto per perderci? Io so chi tu sei: il Santo di Dio!   
+<br /><span class="verse" id="25">25 </span>E Gesù lo sgridò, dicendo: Ammutolisci ed esci da costui!   
+<br /><span class="verse" id="26">26 </span>E lo spirito immondo, straziatolo e gridando forte, uscì da lui.   
+<br /><span class="verse" id="27">27 </span>E tutti sbigottirono talché si domandavano fra loro: Che cos’è mai questo? È una dottrina nuova! Egli comanda con autorità perfino agli spiriti immondi, ed essi gli ubbidiscono!   
+<br /><span class="verse" id="28">28 </span>E la sua fama si divulgò subito per ogni dove, in tutta la circostante contrada della Galilea.   
+<br /><span class="verse" id="29">29 </span>Ed appena usciti dalla sinagoga, vennero con Giacomo e Giovanni in casa di Simone e d’Andrea.   
+<br /><span class="verse" id="30">30 </span>Or la suocera di Simone era a letto con la febbre; ed essi subito gliene parlarono;   
+<br /><span class="verse" id="31">31 </span>ed egli, accostatosi, la prese per la mano e la fece levare; e la febbre la lasciò ed ella si mise a servirli.   
+<br /><span class="verse" id="32">32 </span>Poi, fattosi sera, quando il sole fu tramontato, gli menarono tutti i malati e gl’indemoniati.   
+<br /><span class="verse" id="33">33 </span>E tutta la città era raunata all’uscio.   
+<br /><span class="verse" id="34">34 </span>Ed egli ne guarì molti che soffrivan di diverse malattie, e cacciò molti demonî; e non permetteva ai demonî di parlare, poiché sapevano chi egli era.   
+<br /><span class="verse" id="35">35 </span>Poi, la mattina, essendo ancora molto buio, Gesù, levatosi, uscì e se ne andò in un luogo deserto; e quivi pregava.   
+<br /><span class="verse" id="36">36 </span>Simone e quelli ch’eran con lui, gli tennero dietro;   
+<br /><span class="verse" id="37">37 </span>e trovatolo, gli dissero: Tutti ti cercano.   
+<br /><span class="verse" id="38">38 </span>Ed egli disse loro: Andiamo altrove, per i villaggi vicini, ond’io predichi anche là; poiché è per questo che io sono uscito.   
+<br /><span class="verse" id="39">39 </span>E andò per tutta la Galilea, predicando nelle loro sinagoghe e cacciando i demonî.   
+<br /><span class="verse" id="40">40 </span>E un lebbroso venne a lui e buttandosi in ginocchio lo pregò dicendo: Se tu vuoi, tu puoi mondarmi!   
+<br /><span class="verse" id="41">41 </span>E Gesù, mosso a pietà, stese la mano, lo toccò e gli disse: Lo voglio; sii mondato!   
+<br /><span class="verse" id="42">42 </span>E subito la lebbra sparì da lui, e fu mondato.   
+<br /><span class="verse" id="43">43 </span>E Gesù, avendogli fatte severe ammonizioni, lo mandò subito via e gli disse:   
+<br /><span class="verse" id="44">44 </span>Guàrdati dal farne parola ad alcuno; ma va’, mostrati al sacerdote ed offri per la tua purificazione quel che Mosè ha prescritto; e questo serva loro di testimonianza.   
+<br /><span class="verse" id="45">45 </span>Ma colui, appena partito, si dette a proclamare e a divulgare il fatto; di modo che Gesù non poteva più entrar palesemente in città; ma se ne stava fuori in luoghi deserti, e da ogni parte la gente accorreva a lui.</p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="2.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

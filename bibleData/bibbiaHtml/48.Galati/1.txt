@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Galati 1 Vi è un solo vangelo </title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Galati</h1>
+ <p class="ym-noprint">  
+<span class="chapread">1</span> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 1 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span> Paolo, apostolo (non dagli uomini né per mezzo d’alcun uomo, ma per mezzo di Gesù Cristo e di Dio Padre che l’ha risuscitato dai morti),    
+<br /><span class="verse" id="2">2 </span>e tutti i fratelli che sono meco, alle chiese della Galazia;   
+<br /><span class="verse" id="3">3 </span>grazia a voi e pace da Dio Padre e dal Signor nostro Gesù Cristo,   
+<br /><span class="verse" id="4">4 </span>che ha dato se stesso per i nostri peccati affin di strapparci al presente secolo malvagio, secondo la volontà del nostro Dio e Padre,   
+<br /><span class="verse" id="5">5 </span>al quale sia la gloria ne’ secoli dei secoli. Amen.   
+<br /><span class="verse" id="6">6 </span>Io mi maraviglio che così presto voi passiate da Colui che vi ha chiamati mediante la grazia di Cristo, a un altro vangelo.   
+<br /><span class="verse" id="7">7 </span>Il quale poi non è un altro vangelo; ma ci sono alcuni che vi turbano e vogliono sovvertire l’Evangelo di Cristo.   
+<br /><span class="verse" id="8">8 </span>Ma quand’anche noi, quand’anche un angelo dal cielo vi annunziasse un vangelo diverso da quello che v’abbiamo annunziato, sia egli anatema.   
+<br /><span class="verse" id="9">9 </span>Come l’abbiamo detto prima d’ora, torno a ripeterlo anche adesso: Se alcuno vi annunzia un vangelo diverso da quello che avete ricevuto, sia anatema.   
+<br /><span class="verse" id="10">10 </span>Vado io forse cercando di conciliarmi il favore degli uomini, ovvero quello di Dio? O cerco io di piacere agli uomini? Se cercassi ancora di piacere agli uomini, non sarei servitore di Cristo.   
+<br /><span class="verse" id="11">11 </span>E invero, fratelli, io vi dichiaro che l’Evangelo da me annunziato non è secondo l’uomo;   
+<br /><span class="verse" id="12">12 </span>poiché io stesso non l’ho ricevuto né l’ho imparato da alcun uomo, ma l’ho ricevuto per rivelazione di Gesù Cristo.   
+<br /><span class="verse" id="13">13 </span>Difatti voi avete udito quale sia stata la mia condotta nel passato, quando ero nel giudaismo; come perseguitavo a tutto potere la Chiesa di Dio e la devastavo,   
+<br /><span class="verse" id="14">14 </span>e mi segnalavo nel giudaismo più di molti della mia età fra i miei connazionali, essendo estremamente zelante delle tradizioni dei miei padri.   
+<br /><span class="verse" id="15">15 </span>Ma quando Iddio, che m’aveva appartato fin dal seno di mia madre e m’ha chiamato mediante la sua grazia, si compiacque   
+<br /><span class="verse" id="16">16 </span>di rivelare in me il suo Figliuolo perch’io lo annunziassi fra i Gentili, io non mi consigliai con carne e sangue,   
+<br /><span class="verse" id="17">17 </span>e non salii a Gerusalemme da quelli che erano stati apostoli prima di me, ma subito me ne andai in Arabia; quindi tornai di nuovo a Damasco.   
+<br /><span class="verse" id="18">18 </span>Di poi, in capo a tre anni, salii a Gerusalemme per visitar Cefa, e stetti da lui quindici giorni;   
+<br /><span class="verse" id="19">19 </span>e non vidi alcun altro degli apostoli; ma solo Giacomo, il fratello del Signore.   
+<br /><span class="verse" id="20">20 </span>Ora, circa le cose che vi scrivo, ecco, nel cospetto di Dio vi dichiaro che non mentisco.   
+<br /><span class="verse" id="21">21 </span>Poi venni nelle contrade della Siria e della Cilicia;   
+<br /><span class="verse" id="22">22 </span>ma ero sconosciuto, di persona, alle chiese della Giudea, che sono in Cristo;   
+<br /><span class="verse" id="23">23 </span>esse sentivan soltanto dire: Colui che già ci perseguitava, ora predica la fede, che altra volta cercava di distruggere.   
+<br /><span class="verse" id="24">24 </span>E per causa mia glorificavano Iddio. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="2.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

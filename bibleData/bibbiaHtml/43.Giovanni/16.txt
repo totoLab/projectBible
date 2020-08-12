@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Auidolibro: Sacra Bibbia, Nuovo Testamento, Vangelio Giovanni, capitolo  16 Lo spirito e il mondo </title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Giovanni</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a> 
+<a href="10.htm#0" class="chap">10</a> 
+<a href="11.htm#0" class="chap">11</a> 
+<a href="12.htm#0" class="chap">12</a> 
+<a href="13.htm#0" class="chap">13</a> 
+<a href="14.htm#0" class="chap">14</a> 
+<a href="15.htm#0" class="chap">15</a>  
+<span class="chapread">16</span> 
+<a href="17.htm#0" class="chap">17</a> 
+<a href="18.htm#0" class="chap">18</a> 
+<a href="19.htm#0" class="chap">19</a> 
+<a href="20.htm#0" class="chap">20</a> 
+<a href="21.htm#0" class="chap">21</a>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 16 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span> Io vi ho dette queste cose, affinché non siate scandalizzati.    
+<br /><span class="verse" id="2"> 2 </span>Vi espelleranno dalle sinagoghe; anzi, l’ora viene che chiunque v’ucciderà, crederà di offrir servigio a Dio.   
+<br /><span class="verse" id="3">3 </span>E questo faranno, perché non hanno conosciuto né il Padre né me.   
+<br /><span class="verse" id="4">4 </span>Ma io v’ho dette queste cose, affinché quando sia giunta l’ora in cui avverranno, vi ricordiate che ve l’ho dette. Non ve le dissi da principio, perché ero con voi.   
+<br /><span class="verse" id="5">5 </span>Ma ora me ne vo a Colui che mi ha mandato; e niun di voi mi domanda: Dove vai?   
+<br /><span class="verse" id="6">6 </span>Invece, perché v’ho detto queste cose, la tristezza v’ha riempito il cuore.   
+<br /><span class="verse" id="7">7 </span>Pure, io vi dico la verità, egli v’è utile ch’io me ne vada; perché, se non me ne vo, non verrà a voi il Consolatore; ma se me ne vo, io ve lo manderò.   
+<br /><span class="verse" id="8">8 </span>E quando sarà venuto, convincerà il mondo quanto al peccato, alla giustizia, e al giudizio.   
+<br /><span class="verse" id="9">9 </span>Quanto al peccato, perché non credono in me;   
+<br /><span class="verse" id="10">10 </span>quanto alla giustizia, perché me ne vo al Padre e non mi vedrete più;   
+<br /><span class="verse" id="11">11 </span>quanto al giudizio, perché il principe di questo mondo è stato giudicato.   
+<br /><span class="verse" id="12">12 </span>Molte cose ho ancora da dirvi; ma non sono per ora alla vostra portata;   
+<br /><span class="verse" id="13">13 </span>ma quando sia venuto lui, lo Spirito della verità, egli vi guiderà in tutta la verità, perché non parlerà di suo, ma dirà tutto quello che avrà udito, e vi annunzierà le cose a venire.   
+<br /><span class="verse" id="14">14 </span>Egli mi glorificherà perché prenderà del mio e ve l’annunzierà.   
+<br /><span class="verse" id="15">15 </span>Tutte le cose che ha il Padre, son mie: per questo ho detto che prenderà del mio e ve l’annunzierà.   
+<br /><span class="verse" id="16">16 </span>Fra poco non mi vedrete più; e fra un altro poco, mi vedrete, perché me ne vo al Padre.   
+<br /><span class="verse" id="17">17 </span>Allora alcuni dei suoi discepoli dissero tra loro: Che cos’è questo che ci dice: ‘Fra poco non mi vedrete più’; e ‘Fra un altro poco mi vedrete’; e: ‘Perché me ne vo al Padre?’   
+<br /><span class="verse" id="18">18 </span>Dicevano dunque: Che cos’è questo ‘fra poco’ che egli dice? Noi non sappiamo quello ch’egli voglia dire.   
+<br /><span class="verse" id="19">19 </span>Gesù conobbe che lo volevano interrogare, e disse loro: Vi domandate voi l’un l’altro che significhi quel mio dire ‘Fra poco non mi vedrete più’, e ‘fra un altro poco mi vedrete?’   
+<br /><span class="verse" id="20">20 </span>In verità, in verità vi dico che voi piangerete e farete cordoglio, e il mondo si rallegrerà. Voi sarete contristati, ma la vostra tristezza sarà mutata in letizia.   
+<br /><span class="verse" id="21">21 </span>La donna, quando partorisce, è in dolore, perché è venuta la sua ora; ma quando ha dato alla luce il bambino, non si ricorda più dell’angoscia per l’allegrezza che sia nata al mondo una creatura umana.   
+<br /><span class="verse" id="22">22 </span>E così anche voi siete ora nel dolore; ma io vi vedrò di nuovo, e il vostro cuore si rallegrerà, e nessuno vi torrà la vostra allegrezza.   
+<br /><span class="verse" id="23">23 </span>E in quel giorno non rivolgerete a me alcuna domanda. In verità, in verità vi dico che quel che chiederete al Padre, Egli ve lo darà nel nome mio.   
+<br /><span class="verse" id="24">24 </span>Fino ad ora non avete chiesto nulla nel nome mio; chiedete e riceverete, affinché la vostra allegrezza sia completa.   
+<br /><span class="verse" id="25">25 </span>Queste cose v’ho dette in similitudini; l’ora viene che non vi parlerò più in similitudini, ma apertamente vi farò conoscere il Padre.   
+<br /><span class="verse" id="26">26 </span>In quel giorno, chiederete nel mio nome; e non vi dico che io pregherò il Padre per voi;   
+<br /><span class="verse" id="27">27 </span>poiché il Padre stesso vi ama, perché mi avete amato e avete creduto che son proceduto da Dio.   
+<br /><span class="verse" id="28">28 </span>Son proceduto dal Padre e son venuto nel mondo; ora lascio il mondo, e torno al Padre.   
+<br /><span class="verse" id="29">29 </span>I suoi discepoli gli dissero: Ecco, adesso tu parli apertamente e non usi similitudine.   
+<br /><span class="verse" id="30">30 </span>Ora sappiamo che sai ogni cosa, e non hai bisogno che alcuno t’interroghi; perciò crediamo che sei proceduto da Dio.   
+<br /><span class="verse" id="31">31 </span>Gesù rispose loro: Adesso credete?   
+<br /><span class="verse" id="32">32 </span>Ecco, l’ora viene, anzi è venuta, che sarete dispersi, ciascun dal canto suo, e mi lascerete solo; ma io non son solo, perché il Padre è meco.   
+<br /><span class="verse" id="33">33 </span>V’ho dette queste cose, affinché abbiate pace in me. Nel mondo avrete tribolazione; ma fatevi animo, io ho vinto il mondo.</p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="17.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

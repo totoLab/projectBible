@@ -1,0 +1,118 @@
+﻿<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Giona 1: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Giona</h1>
+ <p class="ym-noprint">  
+<span class="chapread">1</span> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 1 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>La parola dell’Eterno fu rivolta a Giona, figliuolo di Amittai, in questi termini:   
+<br /><span class="verse" id="2">2 </span>‘Lèvati, va a Ninive, la gran città, e predica contro di lei; perché la loro malvagità è salita nel mio cospetto’.   
+<br /><span class="verse" id="3">3 </span>Ma Giona si levò per fuggirsene a Tarsis, lungi dal cospetto dell’Eterno; e scese a Giaffa, dove trovò una nave che andava a Tarsis; e, pagato il prezzo del suo passaggio, s’imbarcò per andare con quei della nave a Tarsis, lungi dal cospetto dell’Eterno.   
+<br /><span class="verse" id="4">4 </span>Ma l’Eterno scatenò un gran vento sul mare, e vi fu sul mare una forte tempesta, sì che la nave minacciava di sfasciarsi.   
+<br /><span class="verse" id="5">5 </span>I marinari ebbero paura, e ognuno gridò al suo dio e gettarono a mare le mercanzie ch’erano a bordo, per alleggerire la nave; ma Giona era sceso nel fondo della nave, s’era coricato, e dormiva profondamente.   
+<br /><span class="verse" id="6">6 </span>Il capitano gli si avvicinò, e gli disse: ‘Che fai tu qui a dormire? Lèvati, invoca il tuo dio! Forse Dio si darà pensiero di noi, e non periremo’.   
+<br /><span class="verse" id="7">7 </span>Poi dissero l’uno all’altro: ‘Venite, tiriamo a sorte, per sapere a cagione di chi ci capita questa disgrazia’. Tirarono a sorte, e la sorte cadde su Giona.   
+<br /><span class="verse" id="8">8 </span>Allora essi gli dissero: ‘Dicci dunque a cagione di chi ci capita questa disgrazia! Qual è la tua occupazione? donde vieni? Qual’è il tuo paese? e a che popolo appartieni?’   
+<br /><span class="verse" id="9">9 </span>Egli rispose loro: ‘Sono ebreo, e temo l’Eterno, l’Iddio del cielo, che ha fatto il mare e la terra ferma’.   
+<br /><span class="verse" id="10">10 </span>Allora quegli uomini furon presi da grande spavento, e gli dissero: ‘Perché hai fatto questo?’ Poiché quegli uomini sapevano ch’egli fuggiva lungi dal cospetto dell’Eterno, giacché egli avea dichiarato loro la cosa.   
+<br /><span class="verse" id="11">11 </span>E quelli gli dissero: ‘Che ti dobbiam fare perché il mare si calmi per noi?’ Poiché il mare si faceva sempre più tempestoso.   
+<br /><span class="verse" id="12">12 </span>Egli rispose loro: ‘Pigliatemi e gettatemi in mare, e il mare si calmerà per voi; perché io so che questa forte tempesta vi piomba addosso per cagion mia’.   
+<br /><span class="verse" id="13">13 </span>Nondimeno quegli uomini davan forte nei remi per ripigliar terra; ma non potevano, perché il mare si faceva sempre più tempestoso e minaccioso.   
+<br /><span class="verse" id="14">14 </span>Allora gridarono all’Eterno, e dissero: ‘Deh, o Eterno, non lasciar che periamo per risparmiar la vita di quest’uomo, e non ci mettere addosso del sangue innocente; poiché tu, o Eterno, hai fatto quel che ti è piaciuto’.   
+<br /><span class="verse" id="15">15 </span>Poi presero Giona e lo gettarono in mare; e la furia del mare si calmò.   
+<br /><span class="verse" id="16">16 </span>E quegli uomini furon presi da un gran timore dell’Eterno; offrirono un sacrifizio all’Eterno, e fecero dei voti.   
+<br /><span class="verse" id="17">17 </span>(2:1) E l’Eterno fece venire un gran pesce per inghiottir Giona; e Giona fu nel ventre del pesce tre giorni e tre notti. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="2.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

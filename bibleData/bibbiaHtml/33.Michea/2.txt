@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Michea 2: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Michea</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a>  
+<span class="chapread">2</span> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 2 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>Guai a quelli che meditano l’iniquità e macchinano il male sui loro letti, per metterlo ad effetto allo spuntar del giorno, quando ne hanno il potere in mano!   
+<br /><span class="verse" id="2">2 </span>Agognano dei campi, e li rapiscono; delle case, e se le prendono; così opprimono l’uomo e la sua casa, l’individuo e la sua proprietà.   
+<br /><span class="verse" id="3">3 </span>Perciò così parla l’Eterno: Ecco, io medito contro questa stirpe un male, al quale non potrete sottrarre il collo; e non camminerete più a test’alta, perché saranno tempi cattivi.   
+<br /><span class="verse" id="4">4 </span>In quel giorno si farà su di voi un proverbio, si canterà un lamento, e si dirà: ‘È finito! Noi siamo interamente rovinati! Egli passa ad altri la parte del mio popolo! Vedete, com’egli me la toglie! I nostri campi li distribuisce agl’infedeli!’   
+<br /><span class="verse" id="5">5 </span>Perciò tu non avrai più alcuno che tiri la cordicella per far le parti, nella raunanza dell’Eterno.   
+<br /><span class="verse" id="6">6 </span>‘Non profetate!’ vanno essi ripetendo. Anche se non si profetizzino cotali cose, non si eviterà l’ignominia.   
+<br /><span class="verse" id="7">7 </span>O tu che porti il nome di casa di Giacobbe, è forse l’Eterno pronto all’ira? È questo il suo modo d’agire? Le mie parole non son esse favorevoli a colui che cammina rettamente?   
+<br /><span class="verse" id="8">8 </span>Ma da qualche tempo il mio popolo insorge come un nemico; voi portate via il mantello di sopra alla veste a quelli che passan tranquillamente, che tornano dalla guerra.   
+<br /><span class="verse" id="9">9 </span>Voi cacciate le donne del mio popolo dalle case che son la loro delizia; voi rapite per sempre la mia gloria ai loro figliuoletti.   
+<br /><span class="verse" id="10">10 </span>Levatevi, andàtevene! perché questo non è luogo di riposo; a motivo della sua contaminazione, esso vi distruggerà d’una distruzione orrenda.   
+<br /><span class="verse" id="11">11 </span>Se uno andasse dietro al vento, e spacciasse menzogne, dicendo: ‘Io predirò per te vino e bevande forti!’ quello sarebbe l’oracolo di questo popolo.   
+<br /><span class="verse" id="12">12 </span>Io ti radunerò, o Giacobbe, ti radunerò tutto quanto! Certo io raccoglierò il rimanente d’Israele; io li farò venire assieme come pecore in un ovile, come un gregge in mezzo al suo pascolo; il luogo sarà affollato d’uomini.   
+<br /><span class="verse" id="13">13 </span>Chi farà la breccia salirà innanzi a loro; essi faran la breccia, e passeranno per la porta, e per essa usciranno; il loro re camminerà davanti a loro, e l’Eterno sarà alla loro testa. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="3.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

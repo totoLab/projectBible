@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Zaccaria 1: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Zaccaria</h1>
+ <p class="ym-noprint">  
+<span class="chapread">1</span> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a> 
+<a href="10.htm#0" class="chap">10</a> 
+<a href="11.htm#0" class="chap">11</a> 
+<a href="12.htm#0" class="chap">12</a> 
+<a href="13.htm#0" class="chap">13</a> 
+<a href="14.htm#0" class="chap">14</a> 
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 1 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>L’ottavo mese, il secondo anno di Dario, la parola dell’Eterno fu rivolta al profeta Zaccaria, figliuolo di Berekia, figliuolo d’Iddo, il profeta, in questi termini:   
+<br /><span class="verse" id="2">2 </span>‘L’Eterno è stato gravemente adirato contro i vostri padri.   
+<br /><span class="verse" id="3">3 </span>Tu, dunque, di’ loro: Così parla l’Eterno degli eserciti: Tornate a me, dice l’Eterno degli eserciti, e io tornerò a voi; dice l’Eterno degli eserciti.   
+<br /><span class="verse" id="4">4 </span>Non siate come i vostri padri, ai quali i profeti precedenti si rivolgevano, dicendo: Così dice l’Eterno degli eserciti: - Ritraetevi dalle vostre vie malvage, dalle vostre malvage azioni! Ma essi non dettero ascolto, e non prestarono attenzione a me, dice l’Eterno.   
+<br /><span class="verse" id="5">5 </span>I vostri padri dove son essi? E i profeti potevan essi vivere in perpetuo?   
+<br /><span class="verse" id="6">6 </span>Ma le mie parole e i miei decreti, dei quali avevo dato incarico ai miei servi i profeti, non arrivarono essi a colpire i padri vostri? Allora essi si convertirono, e dissero: L’Eterno degli eserciti ci ha trattati secondo le nostre vie e secondo le nostre azioni, come avea risoluto di fare’.   
+<br /><span class="verse" id="7">7 </span>Il ventiquattresimo giorno dell’undecimo mese, che è il mese di Scebat, nel secondo anno di Dario, la parola dell’Eterno fu rivolta a Zaccaria, figliuolo di Berekia, figliuolo d’Iddo, il profeta, in questi termini:   
+<br /><span class="verse" id="8">8 </span>Io ebbi, di notte, una visione; ed ecco un uomo montato sopra un cavallo rosso; egli stava fra le piante di mortella in un luogo profondo; e dietro a lui c’eran de’ cavalli rossi, sauri e bianchi.   
+<br /><span class="verse" id="9">9 </span>E io dissi: ‘Che son questi, signor mio?’ E l’angelo che parlava meco mi disse: ‘Io ti farò vedere che cosa son questi’.   
+<br /><span class="verse" id="10">10 </span>E l’uomo che stava fra le piante di mortella prese a dire: ‘Questi son quelli che l’Eterno ha mandati a percorrere la terra’.   
+<br /><span class="verse" id="11">11 </span>E quelli si rivolsero all’angelo dell’Eterno che stava fra le piante di mortella, e dissero: ‘Noi abbiamo percorso la terra, ed ecco tutta la terra è in riposo e tranquilla’.   
+<br /><span class="verse" id="12">12 </span>Allora l’angelo dell’Eterno prese a dire: ‘O Eterno degli eserciti, fino a quando non avrai tu pietà di Gerusalemme e delle città di Giuda, contro le quali sei stato indignato durante questi settant’anni?’   
+<br /><span class="verse" id="13">13 </span>E l’Eterno rivolse all’angelo che parlava meco, delle buone parole, delle parole di conforto.   
+<br /><span class="verse" id="14">14 </span>E l’angelo che parlava meco mi disse: ‘Grida e di’: Così parla l’Eterno degli eserciti: Io provo una gran gelosia per Gerusalemme e per Sion;   
+<br /><span class="verse" id="15">15 </span>e provo un grande sdegno contro le nazioni che se ne stanno ora tranquille, e che, quand’io m’indignai un poco contro di essa, contribuirono ad accrescer la sua disgrazia.   
+<br /><span class="verse" id="16">16 </span>Perciò così parla l’Eterno: Io mi volgo di nuovo a Gerusalemme con compassione; la mia casa vi sarà ricostruita, dice l’Eterno degli eserciti, e la corda sarà di nuovo tirata su Gerusalemme.   
+<br /><span class="verse" id="17">17 </span>Grida ancora, e di’: Così parla l’Eterno degli eserciti: Le mie città rigurgiteranno ancora di beni, e l’Eterno consolerà ancora Sion, e sceglierà ancora Gerusalemme’.   
+<br /><span class="verse" id="18">18 </span>Poi alzai gli occhi, guardai, ed ecco quattro corna.   
+<br /><span class="verse" id="19">19 </span>E io dissi all’angelo che parlava meco: ‘Che son queste?’ Egli mi rispose: ‘Queste son le corna che hanno disperso Giuda, Israele e Gerusalemme’.   
+<br /><span class="verse" id="20">20 </span>E l’Eterno mi fece vedere quattro fabbri.   
+<br /><span class="verse" id="21">21 </span>E io dissi: ‘Questi, che vengono a fare?’ Egli rispose e mi disse: ‘Quelle là son le corna che hanno disperso Giuda, sì che nessuno alzava più il capo; ma questi qui vengono per spaventarle, per abbattere le corna delle nazioni, che hanno alzato il loro corno contro il paese di Giuda per disperderne gli abitanti’. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="2.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

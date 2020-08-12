@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>2 Corinzi 10 Paolo difende il suo modo di agire </title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>2 Corinzi</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a>  
+<span class="chapread">10</span> 
+<a href="11.htm#0" class="chap">11</a> 
+<a href="12.htm#0" class="chap">12</a> 
+<a href="13.htm#0" class="chap">13</a>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 10 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span> Io poi, Paolo, vi esorto per la mansuetudine e la mitezza di Cristo, io che quando sono presente fra voi son umile, ma quando sono assente sono ardito verso voi,    
+<br /><span class="verse" id="2">2 </span>vi prego di non obbligarmi, quando sarò presente, a procedere arditamente con quella sicurezza onde fo conto d’essere audace contro taluni che ci stimano come se camminassimo secondo la carne.   
+<br /><span class="verse" id="3">3 </span>Perché sebbene camminiamo nella carne, non combattiamo secondo la carne;   
+<br /><span class="verse" id="4">4 </span>infatti le armi della nostra guerra non sono carnali, ma potenti nel cospetto di Dio a distruggere le fortezze;   
+<br /><span class="verse" id="5">5 </span>poiché distruggiamo i ragionamenti ed ogni altezza che si eleva contro alla conoscenza di Dio, e facciam prigione ogni pensiero traendolo all’ubbidienza di Cristo;   
+<br /><span class="verse" id="6">6 </span>e siam pronti a punire ogni disubbidienza, quando la vostra ubbidienza sarà completa.   
+<br /><span class="verse" id="7">7 </span>Voi guardate all’apparenza delle cose. Se uno confida dentro di sé d’esser di Cristo, consideri anche questo dentro di sé: che com’egli è di Cristo, così siamo anche noi.   
+<br /><span class="verse" id="8">8 </span>Poiché, quand’anche io mi gloriassi un po’ di più dell’autorità che il Signore ci ha data per la edificazione vostra e non per la vostra rovina, non ne sarei svergognato.   
+<br /><span class="verse" id="9">9 </span>Dico questo perché non paia ch’io cerchi di spaventarvi con le mie lettere.   
+<br /><span class="verse" id="10">10 </span>Difatti, dice taluno, ben sono le sue lettere gravi e forti; ma la sua presenza personale è debole, e la sua parola è cosa da nulla.   
+<br /><span class="verse" id="11">11 </span>Quel tale tenga questo per certo: che quali siamo a parole, per via di lettere, quando siamo assenti, tali saremo anche a fatti quando saremo presenti.   
+<br /><span class="verse" id="12">12 </span>Poiché noi non osiamo annoverarci o paragonarci con certuni che si raccomandano da sé; i quali però, misurandosi alla propria stregua e paragonando sé con se stessi, sono senza giudizio.   
+<br /><span class="verse" id="13">13 </span>Noi, invece, non ci glorieremo oltre misura, ma entro la misura del campo di attività di cui Dio ci ha segnato i limiti, dandoci di giungere anche fino a voi.   
+<br /><span class="verse" id="14">14 </span>Poiché non ci estendiamo oltre il dovuto, quasi che non fossimo giunti fino a voi; perché fino a voi siamo realmente giunti col Vangelo di Cristo.   
+<br /><span class="verse" id="15">15 </span>E non ci gloriamo oltre misura di fatiche altrui, ma nutriamo speranza che, crescendo la fede vostra, noi, senza uscire dai nostri limiti, saremo fra voi ampiamente ingranditi   
+<br /><span class="verse" id="16">16 </span>in guisa da poter evangelizzare anche i paesi che sono al di là del vostro, e da non gloriarci, entrando nel campo altrui, di cose bell’e preparate.   
+<br /><span class="verse" id="17">17 </span>Ma chi si gloria, si glorî nel Signore.   
+<br /><span class="verse" id="18">18 </span>Poiché non colui che raccomanda se stesso è approvato, ma colui che il Signore raccomanda. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="11.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

@@ -1,0 +1,175 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Geremia  9: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Geremia</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a>  
+<span class="chapread">9</span> 
+<a href="10.htm#0" class="chap">10</a> 
+<a href="11.htm#0" class="chap">11</a> 
+<a href="12.htm#0" class="chap">12</a> 
+<a href="13.htm#0" class="chap">13</a> 
+<a href="14.htm#0" class="chap">14</a> 
+<a href="15.htm#0" class="chap">15</a> 
+<a href="16.htm#0" class="chap">16</a> 
+<a href="17.htm#0" class="chap">17</a> 
+<a href="18.htm#0" class="chap">18</a> 
+<a href="19.htm#0" class="chap">19</a> 
+<a href="20.htm#0" class="chap">20</a> 
+<a href="21.htm#0" class="chap">21</a> 
+<a href="22.htm#0" class="chap">22</a> 
+<a href="23.htm#0" class="chap">23</a> 
+<a href="24.htm#0" class="chap">24</a> 
+<a href="25.htm#0" class="chap">25</a> 
+<a href="26.htm#0" class="chap">26</a> 
+<a href="27.htm#0" class="chap">27</a> 
+<a href="28.htm#0" class="chap">28</a> 
+<a href="29.htm#0" class="chap">29</a> 
+<a href="30.htm#0" class="chap">30</a> 
+<a href="31.htm#0" class="chap">31</a> 
+<a href="32.htm#0" class="chap">32</a> 
+<a href="33.htm#0" class="chap">33</a> 
+<a href="34.htm#0" class="chap">34</a> 
+<a href="35.htm#0" class="chap">35</a> 
+<a href="36.htm#0" class="chap">36</a> 
+<a href="37.htm#0" class="chap">37</a> 
+<a href="38.htm#0" class="chap">38</a> 
+<a href="39.htm#0" class="chap">39</a> 
+<a href="40.htm#0" class="chap">40</a> 
+<a href="41.htm#0" class="chap">41</a> 
+<a href="42.htm#0" class="chap">42</a> 
+<a href="43.htm#0" class="chap">43</a> 
+<a href="44.htm#0" class="chap">44</a> 
+<a href="45.htm#0" class="chap">45</a> 
+<a href="46.htm#0" class="chap">46</a> 
+<a href="47.htm#0" class="chap">47</a> 
+<a href="48.htm#0" class="chap">48</a> 
+<a href="49.htm#0" class="chap">49</a> 
+<a href="50.htm#0" class="chap">50</a> 
+<a href="51.htm#0" class="chap">51</a> 
+<a href="52.htm#0" class="chap">52</a> 
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 9 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>Oh fosse pur la mia testa mutata in acqua, e fosser gli occhi miei una fonte di lacrime! Io piangerei giorno e notte gli uccisi della figliuola del mio popolo!   
+<br /><span class="verse" id="2">2 </span>Oh se avessi nel deserto un rifugio da viandanti! Io abbandonerei il mio popolo e me n’andrei lungi da costoro, perché son tutti adulteri, un’adunata di traditori.   
+<br /><span class="verse" id="3">3 </span>Tendono la lingua, ch’è il loro arco, per scoccar menzogne; son diventati potenti nel paese, ma non per agir con fedeltà; poiché procedono di malvagità in malvagità, e non conoscono me, dice l’Eterno.   
+<br /><span class="verse" id="4">4 </span>Si guardi ciascuno dal suo amico, e nessuno si fidi del suo fratello; poiché ogni fratello non fa che ingannare, ed ogni amico va spargendo calunnie.   
+<br /><span class="verse" id="5">5 </span>L’uno gabba l’altro, e non dice la verità, esercitano la loro lingua a mentire, s’affannano a fare il male.   
+<br /><span class="verse" id="6">6 </span>La tua dimora è la malafede; ed è per malafede che costoro rifiutano di conoscermi, dice l’Eterno.   
+<br /><span class="verse" id="7">7 </span>Perciò, così parla l’Eterno degli eserciti: Ecco, io li fonderò nel crogiuolo per saggiarli; poiché che altro farei riguardo alla figliuola del mio popolo?   
+<br /><span class="verse" id="8">8 </span>La loro lingua è un dardo micidiale; essa non dice che menzogne; con la bocca ognuno parla di pace al suo prossimo, ma nel cuore gli tende insidie.   
+<br /><span class="verse" id="9">9 </span>Non li punirei io per queste cose? dice l’Eterno; e l’anima mia non si vendicherebbe d’una simile nazione?   
+<br /><span class="verse" id="10">10 </span>Io vo’ dare in pianto ed in gemito, per i monti, e vo’ dare in lamento per i pascoli del deserto, perché son arsi, talché niuno più vi passa, e non vi s’ode più voce di bestiame; gli uccelli del cielo e le bestie sono fuggite, sono scomparse.   
+<br /><span class="verse" id="11">11 </span>Io ridurrò Gerusalemme in un monte di ruine, in un ricetto di sciacalli; e farò delle città di Giuda una desolazione senza abitanti.   
+<br /><span class="verse" id="12">12 </span>Chi è il savio che capisca queste cose? Chi è colui al quale la bocca dell’Eterno ha parlato perché ei ne dia l’annunzio? Perché il paese è egli distrutto, desolato come un deserto talché niuno vi passa?   
+<br /><span class="verse" id="13">13 </span>L’Eterno risponde: Perché costoro hanno abbandonato la mia legge ch’io avevo loro posta dinanzi, e non hanno dato ascolto alla mia voce, e non l’hanno seguita nella lor condotta,   
+<br /><span class="verse" id="14">14 </span>ma han seguito la caparbietà del cuor loro, e sono andati dietro ai Baali, come i loro padri insegnarono loro.   
+<br /><span class="verse" id="15">15 </span>Perciò, così parla l’Eterno degli eserciti, l’Iddio d’Israele: Ecco, io farò mangiar dell’assenzio a questo popolo, e gli farò bere dell’acqua avvelenata.   
+<br /><span class="verse" id="16">16 </span>Io li disperderò fra le nazioni, che né loro né i loro padri han conosciuto; e manderò dietro a loro la spada, finché io li abbia consumati.   
+<br /><span class="verse" id="17">17 </span>Così parla l’Eterno degli eserciti: Pensate a chiamare delle piagnone, e ch’esse vengano! Mandate a cercare le più avvedute e ch’esse vengano   
+<br /><span class="verse" id="18">18 </span>e s’affrettino a fare un lamento su noi, sì che i nostri occhi si struggano in lacrime, e l’acqua fluisca dalle nostre palpebre.   
+<br /><span class="verse" id="19">19 </span>Poiché una voce di lamento si fa udire da Sion: ‘Come siamo devastati! Siamo coperti di confusione, perché dobbiamo abbandonare il paese, ora che hanno abbattuto le nostre dimore’.   
+<br /><span class="verse" id="20">20 </span>Donne, ascoltate la parola dell’Eterno, e i vostri orecchi ricevan la parola della sua bocca! Insegnate alle vostre figliuole de’ lamenti, e ognuna insegni alla sua compagna de’ canti funebri!   
+<br /><span class="verse" id="21">21 </span>Poiché la morte è salita per le nostre finestre, è entrata nei nostri palazzi per far sparire i bambini dalle strade e i giovani dalle piazze.   
+<br /><span class="verse" id="22">22 </span>Di’: Così parla l’Eterno: I cadaveri degli uomini giaceranno come letame sull’aperta campagna, come una mannella che il mietitore si lascia dietro, e che nessuno raccoglie.   
+<br /><span class="verse" id="23">23 </span>Così parla l’Eterno: Il savio non si glorî della sua saviezza, il forte non si glorî della sua forza, il ricco non si glorî della sua ricchezza;   
+<br /><span class="verse" id="24">24 </span>ma chi si gloria si glorî di questo: che ha intelligenza e conosce me, che sono l’Eterno, che esercita la benignità, il diritto e la giustizia sulla terra; perché di queste cose mi compiaccio, dice l’Eterno.   
+<br /><span class="verse" id="25">25 </span>Ecco, i giorni vengono, dice l’Eterno, ch’io punirò tutti i circoncisi che sono incirconcisi:   
+<br /><span class="verse" id="26">26 </span>l’Egitto, Giuda, Edom, i figliuoli di Ammon, Moab, e tutti quelli che si tagliano i canti della barba, e abitano nel deserto; poiché tutte le nazioni sono incirconcise, e tutta la casa d’Israele è incirconcisa di cuore. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="10.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

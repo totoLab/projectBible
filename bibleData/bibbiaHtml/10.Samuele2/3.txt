@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>2 Samuele   3: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>2 Samuele</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a>  
+<span class="chapread">3</span> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a> 
+<a href="10.htm#0" class="chap">10</a> 
+<a href="11.htm#0" class="chap">11</a> 
+<a href="12.htm#0" class="chap">12</a> 
+<a href="13.htm#0" class="chap">13</a> 
+<a href="14.htm#0" class="chap">14</a> 
+<a href="15.htm#0" class="chap">15</a> 
+<a href="16.htm#0" class="chap">16</a> 
+<a href="17.htm#0" class="chap">17</a> 
+<a href="18.htm#0" class="chap">18</a> 
+<a href="19.htm#0" class="chap">19</a> 
+<a href="20.htm#0" class="chap">20</a> 
+<a href="21.htm#0" class="chap">21</a> 
+<a href="22.htm#0" class="chap">22</a> 
+<a href="23.htm#0" class="chap">23</a> 
+<a href="24.htm#0" class="chap">24</a> 
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 3 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>La guerra fra la casa di Saul e la casa di Davide fu lunga. Davide si faceva sempre più forte, mentre la casa di Saul si andava indebolendo.   
+<br /><span class="verse" id="2">2 </span>E nacquero a Davide dei figliuoli a Hebron. Il suo primogenito fu Amnon, di Ahinoam, la Izreelita;   
+<br /><span class="verse" id="3">3 </span>il secondo fu Kileab di Abigail, la Carmelita, ch’era stata moglie di Nabal; il terzo fu Absalom, figliuolo di Maaca, figliuola di Talmai, re di Gheshur;   
+<br /><span class="verse" id="4">4 </span>il quarto fu Adonija, figliuolo di Hagghith; il quinto fu Scefatia, figliuolo di Abital,   
+<br /><span class="verse" id="5">5 </span>e il sesto fu Ithream, figliuolo di Egla, moglie di Davide. Questi nacquero a Davide in Hebron.   
+<br /><span class="verse" id="6">6 </span>Durante la guerra fra la casa di Saul e la casa di Davide, Abner si tenne costante dalla parte della casa di Saul.   
+<br /><span class="verse" id="7">7 </span>Or Saul aveva avuta una concubina per nome Ritspa, figliuola di Aia; e Jsh-Bosheth disse ad Abner: ‘Perché sei tu andato dalla concubina di mio padre?’   
+<br /><span class="verse" id="8">8 </span>Abner si adirò forte per le parole di Jsh-Bosheth, e rispose: ‘Sono io una testa di cane che tenga da Giuda? Oggi io do prova di benevolenza, verso la casa di Saul tuo padre, verso i suoi fratelli ed i suoi amici, non t’ho dato nelle mani di Davide, e proprio oggi tu mi rimproveri il fallo commesso con questa donna!   
+<br /><span class="verse" id="9">9 </span>Iddio tratti Abner col massimo rigore, se io non faccio per Davide tutto quello che l’Eterno gli ha promesso con giuramento,   
+<br /><span class="verse" id="10">10 </span>trasferendo il regno dalla casa di Saul a quella di lui, e stabilendo il trono di Davide sopra Israele e sopra Giuda, da Dan fino a Beer-Sheba’.   
+<br /><span class="verse" id="11">11 </span>E Jsh-Bosheth non poté replicar verbo ad Abner, perché avea paura di lui.   
+<br /><span class="verse" id="12">12 </span>E Abner spedì tosto de’ messi a Davide per dirgli: ‘A chi appartiene il paese?’ e ‘Fa’ alleanza con me, e il mio braccio sarà al tuo servizio per volgere dalla tua parte tutto Israele’.   
+<br /><span class="verse" id="13">13 </span>Davide rispose: ‘Sta bene; io farò alleanza con te; ma una sola cosa ti chieggo, ed è che tu non ti presenti davanti a me senza menarmi Mical, figliuola di Saul, quando mi comparirai dinanzi’.   
+<br /><span class="verse" id="14">14 </span>E Davide spedì de’ messi a Jsh-Bosheth, figliuolo di Saul, per dirgli: ‘Rendimi Mical, mia moglie, la quale io mi fidanzai a prezzo di cento prepuzi di Filistei’.   
+<br /><span class="verse" id="15">15 </span>Jsh-Bosheth la mandò a prendere di presso al marito Paltiel, figliuolo di Lais.   
+<br /><span class="verse" id="16">16 </span>E il marito andò con lei, l’accompagnò piangendo, e la seguì fino a Bahurim. Poi Abner gli disse: ‘Va’, torna indietro!’ Ed egli se ne ritornò.   
+<br /><span class="verse" id="17">17 </span>Intanto Abner entrò in trattative con gli anziani d’Israele, dicendo: ‘Già da lungo tempo state cercando d’aver Davide per vostro re;   
+<br /><span class="verse" id="18">18 </span>ora è tempo d’agire; giacché l’Eterno ha parlato di lui e ha detto: - Per mezzo di Davide, mio servo, io salverò il mio popolo Israele dalle mani dei Filistei e da quelle di tutti i suoi nemici’.   
+<br /><span class="verse" id="19">19 </span>Abner si abboccò pure con quelli di Beniamino; quindi andò anche a trovar Davide a Hebron per metterlo a parte di tutto quello che Israele e tutta la casa di Beniamino aveano deciso.   
+<br /><span class="verse" id="20">20 </span>Abner giunse a Hebron presso Davide, accompagnato da venti uomini; e Davide fece un convito ad Abner e agli uomini ch’eran con lui.   
+<br /><span class="verse" id="21">21 </span>Poi Abner disse a Davide: ‘Io mi leverò e andrò a radunare tutto Israele presso il re mio signore, affinché essi facciano alleanza teco e tu regni su tutto quello che il cuor tuo desidera’. Così Davide accomiatò Abner, che se ne andò in pace.   
+<br /><span class="verse" id="22">22 </span>Or ecco che la gente di Davide e Joab tornavano da una scorreria, portando seco gran bottino; ma Abner non era più con Davide in Hebron, poiché questi lo avea licenziato ed egli se n’era andato in pace.   
+<br /><span class="verse" id="23">23 </span>Quando Joab e tutta la gente ch’era con lui furono arrivati, qualcuno riferì la nuova a Joab, dicendo: ‘Abner, figliuolo di Ner, è venuto dal re, il quale lo ha licenziato, ed egli se n’è andato in pace’.   
+<br /><span class="verse" id="24">24 </span>Allora Joab si recò dal re, e gli disse ‘Che hai tu fatto? Ecco, Abner era venuto da te; perché l’hai tu licenziato, sì ch’egli ha potuto andarsene liberamente?   
+<br /><span class="verse" id="25">25 </span>Tu sai chi sia Abner, figliuolo di Ner! egli è venuto per ingannarti, per spiare i tuoi movimenti, e per sapere tutto quello che tu fai’.   
+<br /><span class="verse" id="26">26 </span>E Joab, uscito che fu da Davide, spedì dei messi dietro ad Abner, i quali lo fecero ritornare dalla cisterna di Siva, senza che Davide ne sapesse nulla.   
+<br /><span class="verse" id="27">27 </span>E quando Abner fu tornato a Hebron, Joab lo trasse in disparte nello spazio fra le due porte, come volendogli parlare in segreto, e quivi lo colpì nell’inguine, sì ch’egli ne morì; e ciò, per vendicare il sangue di Asael suo fratello.   
+<br /><span class="verse" id="28">28 </span>Davide, avendo poi udito il fatto, disse: ‘Io e il mio regno siamo in perpetuo innocenti, nel cospetto dell’Eterno, del sangue di Abner, figliuolo di Ner;   
+<br /><span class="verse" id="29">29 </span>ricada esso sul capo di Joab e su tutta la casa di suo padre, e non manchi mai nella casa di Joab chi patisca di gonorrea o di piaga di lebbra o debba appoggiarsi al bastone o perisca di spada o sia senza pane!’   
+<br /><span class="verse" id="30">30 </span>Così Joab ed Abisai, suo fratello, uccisero Abner, perché questi aveva ucciso Asael loro fratello, a Gabaon, in battaglia.   
+<br /><span class="verse" id="31">31 </span>Davide disse a Joab e a tutto il popolo ch’era con lui: ‘Stracciatevi le vesti, cingetevi di sacco, e fate cordoglio per la morte di Abner!’ E il re Davide andò dietro alla bara.   
+<br /><span class="verse" id="32">32 </span>Abner fu seppellito a Hebron, e il re alzò la voce e pianse sulla tomba di Abner; e pianse tutto il popolo.   
+<br /><span class="verse" id="33">33 </span>E il re fece un canto funebre su Abner, e disse: ‘Doveva Abner morire come muore uno stolto?   
+<br /><span class="verse" id="34">34 </span>Le tue mani non eran legate, né i tuoi piedi erano stretti nei ceppi! Sei caduto come si cade per mano di scellerati’.   
+<br /><span class="verse" id="35">35 </span>E tutto il popolo ricominciò a piangere Abner; poi s’accostò a Davide per fargli prender qualche cibo mentr’era ancora giorno; ma Davide giurò dicendo: ‘Mi tratti Iddio con tutto il suo rigore se assaggerò pane o alcun’altra cosa prima che tramonti il sole!’   
+<br /><span class="verse" id="36">36 </span>E tutto il popolo capì e approvò la cosa; tutto quello che il re fece fu approvato da tutto il popolo.   
+<br /><span class="verse" id="37">37 </span>Così tutto il popolo e tutto Israele riconobbero in quel giorno che il re non entrava per nulla nell’uccisione di Abner, figliuolo di Ner.   
+<br /><span class="verse" id="38">38 </span>E il re disse ai suoi servi: ‘Non sapete voi che un principe ed un grand’uomo è caduto oggi in Israele?   
+<br /><span class="verse" id="39">39 </span>Quanto a me, benché unto re, sono tuttora debole; mentre questa gente, i figliuoli di Tseruia, son troppo forti per me. Renda l’Eterno a chi fa il male secondo la malvagità di lui’. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="4.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

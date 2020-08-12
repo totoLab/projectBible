@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Levitico 4: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Levitico</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a>  
+<span class="chapread">4</span> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a> 
+<a href="10.htm#0" class="chap">10</a> 
+<a href="11.htm#0" class="chap">11</a> 
+<a href="12.htm#0" class="chap">12</a> 
+<a href="13.htm#0" class="chap">13</a> 
+<a href="14.htm#0" class="chap">14</a> 
+<a href="15.htm#0" class="chap">15</a> 
+<a href="16.htm#0" class="chap">16</a> 
+<a href="17.htm#0" class="chap">17</a> 
+<a href="18.htm#0" class="chap">18</a> 
+<a href="19.htm#0" class="chap">19</a> 
+<a href="20.htm#0" class="chap">20</a> 
+<a href="21.htm#0" class="chap">21</a> 
+<a href="22.htm#0" class="chap">22</a> 
+<a href="23.htm#0" class="chap">23</a> 
+<a href="24.htm#0" class="chap">24</a> 
+<a href="25.htm#0" class="chap">25</a> 
+<a href="26.htm#0" class="chap">26</a> 
+<a href="27.htm#0" class="chap">27</a> 
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 4 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>L’Eterno parlò ancora a Mosè, dicendo:   
+<br /><span class="verse" id="2">2 </span>‘Parla ai figliuoli d’Israele e di’ loro: Quando qualcuno avrà peccato per errore e avrà fatto alcuna delle cose che l’Eterno ha vietato di fare,   
+<br /><span class="verse" id="3">3 </span>se il sacerdote che ha ricevuto l’unzione è quegli che ha peccato, rendendo per tal modo colpevole il popolo, offrirà all’Eterno, per il peccato commesso, un giovenco senza difetto, come sacrifizio per il peccato.   
+<br /><span class="verse" id="4">4 </span>Menerà il giovenco all’ingresso della tenda di convegno, davanti all’Eterno; poserà la mano sulla testa del giovenco, e sgozzerà il giovenco davanti all’Eterno.   
+<br /><span class="verse" id="5">5 </span>Poi il sacerdote che ha ricevuto l’unzione prenderà del sangue del giovenco e lo porterà entro la tenda di convegno;   
+<br /><span class="verse" id="6">6 </span>e il sacerdote intingerà il suo dito nel sangue, e farà aspersione di quel sangue sette volte davanti all’Eterno, di fronte al velo del santuario.   
+<br /><span class="verse" id="7">7 </span>Il sacerdote quindi metterà di quel sangue sui corni dell’altare del profumo fragrante, altare che è davanti all’Eterno, nella tenda di convegno; e spanderà tutto il sangue del giovenco appiè dell’altare degli olocausti, che è all’ingresso della tenda di convegno.   
+<br /><span class="verse" id="8">8 </span>E torrà dal giovenco del sacrifizio per il peccato tutto il grasso: il grasso che copre le interiora e tutto il grasso che aderisce alle interiora,   
+<br /><span class="verse" id="9">9 </span>i due arnioni e il grasso che v’è sopra e che copre i fianchi,   
+<br /><span class="verse" id="10">10 </span>e la rete del fegato, che staccherà vicino agli arnioni, nello stesso modo che queste parti si tolgono dal bue del sacrifizio di azioni di grazie; e il sacerdote le farà fumare sull’altare degli olocausti.   
+<br /><span class="verse" id="11">11 </span>Ma la pelle del giovenco e tutta la sua carne, con la sua testa, le sue gambe, le sue interiora e i suoi escrementi,   
+<br /><span class="verse" id="12">12 </span>il giovenco intero, lo porterà fuori del campo, in un luogo puro, dove si gettan le ceneri; e lo brucerà col fuoco, su delle legna; sarà bruciato sul mucchio delle ceneri.   
+<br /><span class="verse" id="13">13 </span>Se tutta la raunanza d’Israele ha peccato per errore, senz’accorgersene, e ha fatto alcuna delle cose che l’Eterno ha vietato di fare, e si è così resa colpevole,   
+<br /><span class="verse" id="14">14 </span>quando il peccato che ha commesso venga ad esser conosciuto, la raunanza offrirà, come sacrificio per il peccato, un giovenco, e lo menerà davanti alla tenda di convegno.   
+<br /><span class="verse" id="15">15 </span>Gli anziani della raunanza poseranno le mani sulla testa del giovenco, davanti all’Eterno; e il giovenco sarà sgozzato davanti all’Eterno.   
+<br /><span class="verse" id="16">16 </span>Poi il sacerdote che ha ricevuto l’unzione porterà del sangue del giovenco entro la tenda di convegno;   
+<br /><span class="verse" id="17">17 </span>e il sacerdote intingerà il dito nel sangue, e ne farà aspersione sette volte davanti all’Eterno, di fronte al velo.   
+<br /><span class="verse" id="18">18 </span>E metterà di quel sangue sui corni dell’altare che è davanti all’Eterno, nella tenda di convegno; e spanderà tutto il sangue appiè dell’altare dell’olocausto, che è all’ingresso della tenda di convegno.   
+<br /><span class="verse" id="19">19 </span>E torrà dal giovenco tutto il grasso, e lo farà fumare sull’altare.   
+<br /><span class="verse" id="20">20 </span>Farà di questo giovenco, come ha fatto del giovenco offerto per il peccato. Così il sacerdote farà l’espiazione per la raunanza, e le sarà perdonato.   
+<br /><span class="verse" id="21">21 </span>Poi porterà il giovenco fuori del campo, e lo brucerà come ha bruciato il primo giovenco. Questo è il sacrifizio per il peccato della raunanza.   
+<br /><span class="verse" id="22">22 </span>Se uno dei capi ha peccato, e ha fatto per errore alcuna di tutte le cose che l’Eterno Iddio suo ha vietato di fare, e si è così reso colpevole,   
+<br /><span class="verse" id="23">23 </span>quando il peccato che ha commesso gli sarà fatto conoscere, menerà, come sua offerta, un becco, un maschio fra le capre, senza difetto.   
+<br /><span class="verse" id="24">24 </span>Poserà la mano sulla testa del becco, e lo scannerà nel luogo dove si scannano gli olocausti, davanti all’Eterno. È un sacrifizio per il peccato.   
+<br /><span class="verse" id="25">25 </span>Poi il sacerdote prenderà col suo dito del sangue del sacrifizio per il peccato, e lo metterà sui corni dell’altare degli olocausti, e spanderà il sangue del becco appiè dell’altare dell’olocausto;   
+<br /><span class="verse" id="26">26 </span>e farà fumare tutto il grasso del becco sull’altare, come ha fatto del grasso del sacrifizio di azioni di grazie. Così il sacerdote farà l’espiazione del peccato di lui, e gli sarà perdonato.   
+<br /><span class="verse" id="27">27 </span>Se qualcuno del popolo del paese peccherà per errore e farà alcuna delle cose che l’Eterno ha vietato di fare, rendendosi così colpevole,   
+<br /><span class="verse" id="28">28 </span>quando il peccato che ha commesso gli sarà fatto conoscere, dovrà menare, come sua offerta, una capra, una femmina senza difetto, per il peccato che ha commesso.   
+<br /><span class="verse" id="29">29 </span>Poserà la mano sulla testa del sacrifizio per il peccato, e sgozzerà il sacrifizio per il peccato nel luogo ove si sgozzano gli olocausti.   
+<br /><span class="verse" id="30">30 </span>Poi il sacerdote prenderà col suo dito del sangue della capra, e lo metterà sui corni dell’altare dell’olocausto, e spanderà tutto il sangue della capra appiè dell’altare.   
+<br /><span class="verse" id="31">31 </span>E torrà tutto il grasso dalla capra, come ha tolto il grasso dal sacrifizio di azioni di grazie; e il sacerdote lo farà fumare sull’altare come un soave odore all’Eterno. Così il sacerdote farà l’espiazione per quel tale, e gli sarà perdonato.   
+<br /><span class="verse" id="32">32 </span>E se colui menerà un agnello come suo sacrifizio per il peccato, dovrà menare una femmina senza difetto.   
+<br /><span class="verse" id="33">33 </span>Poserà la mano sulla testa del sacrifizio per il peccato, e lo sgozzerà come sacrifizio per il peccato nel luogo ove si sgozzano gli olocausti.   
+<br /><span class="verse" id="34">34 </span>Poi il sacerdote prenderà col suo dito del sangue del sacrifizio per il peccato, e lo metterà sui corni dell’altare dell’olocausto, e spanderà tutto il sangue della vittima appiè dell’altare;   
+<br /><span class="verse" id="35">35 </span>e torrà dalla vittima tutto il grasso, come si toglie il grasso dall’agnello del sacrifizio di azioni di grazie; e il sacerdote lo farà fumare sull’altare, sui sacrifizi fatti mediante il fuoco all’Eterno. Così il sacerdote farà per quel tale l’espiazione del peccato che ha commesso, e gli sarà perdonato. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="5.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

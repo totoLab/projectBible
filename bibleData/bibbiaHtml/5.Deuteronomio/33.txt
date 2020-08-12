@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Deuteronomio 33: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Deuteronomio</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a> 
+<a href="10.htm#0" class="chap">10</a> 
+<a href="11.htm#0" class="chap">11</a> 
+<a href="12.htm#0" class="chap">12</a> 
+<a href="13.htm#0" class="chap">13</a> 
+<a href="14.htm#0" class="chap">14</a> 
+<a href="15.htm#0" class="chap">15</a> 
+<a href="16.htm#0" class="chap">16</a> 
+<a href="17.htm#0" class="chap">17</a> 
+<a href="18.htm#0" class="chap">18</a> 
+<a href="19.htm#0" class="chap">19</a> 
+<a href="20.htm#0" class="chap">20</a> 
+<a href="21.htm#0" class="chap">21</a> 
+<a href="22.htm#0" class="chap">22</a> 
+<a href="23.htm#0" class="chap">23</a> 
+<a href="24.htm#0" class="chap">24</a> 
+<a href="25.htm#0" class="chap">25</a> 
+<a href="26.htm#0" class="chap">26</a> 
+<a href="27.htm#0" class="chap">27</a> 
+<a href="28.htm#0" class="chap">28</a> 
+<a href="29.htm#0" class="chap">29</a> 
+<a href="30.htm#0" class="chap">30</a> 
+<a href="31.htm#0" class="chap">31</a> 
+<a href="32.htm#0" class="chap">32</a>  
+<span class="chapread">33</span> 
+<a href="34.htm#0" class="chap">34</a> 
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 33 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>Or questa è la benedizione con la quale Mosè, uomo di Dio, benedisse i figliuoli d’Israele, prima di morire.   
+<br /><span class="verse" id="2">2 </span>Disse dunque: L’Eterno è venuto dal Sinai, e s’è levato su loro da Seir; ha fatto splender la sua luce dal monte di Paran, è giunto dal mezzo delle sante miriadi; dalla sua destra usciva per essi il fuoco della legge.   
+<br /><span class="verse" id="3">3 </span>Certo, l’Eterno ama i popoli; ma i suoi santi son tutti agli ordini suoi. Ed essi si tennero ai tuoi piedi, e raccolsero le tue parole.   
+<br /><span class="verse" id="4">4 </span>Mosè ci ha dato una legge, eredità della raunanza di Giacobbe;   
+<br /><span class="verse" id="5">5 </span>ed egli è stato re in Ieshurun, quando s’adunavano i capi del popolo e tutte assieme le tribù d’Israele.   
+<br /><span class="verse" id="6">6 </span>Viva Ruben! ch’egli non muoia; ma siano gli uomini suoi ridotti a pochi!   
+<br /><span class="verse" id="7">7 </span>E questo è per Giuda. Egli disse: Ascolta, o Eterno, la voce di Giuda, e riconducilo al suo popolo. Con tutte le sue forze egli lotta per esso; tu gli sarai d’aiuto contro i suoi nemici!   
+<br /><span class="verse" id="8">8 </span>Poi disse di Levi: I tuoi Thummim e i tuoi Urim appartengono all’uomo pio che ti sei scelto, che tu provasti a Massa, e col quale contendesti alle acque di Meriba.   
+<br /><span class="verse" id="9">9 </span>Egli dice di suo padre e di sua madre: ‘Io non li ho visti!’ non riconosce i suoi fratelli, e nulla sa de’ propri figliuoli; perché i Leviti osservano la tua parola e sono i custodi del tuo patto.   
+<br /><span class="verse" id="10">10 </span>Essi insegnano i tuoi statuti a Giacobbe e la tua legge a Israele; metton l’incenso sotto le tue nari, e l’olocausto sopra il tuo altare.   
+<br /><span class="verse" id="11">11 </span>O Eterno, benedici la sua forza, e gradisci l’opera delle sue mani. Trafiggi le reni a quelli che insorgono contro di lui, che gli sono nemici sì che non possan risorgere.   
+<br /><span class="verse" id="12">12 </span>Di Beniamino disse: L’amato dell’Eterno abiterà sicuro presso di lui. L’Eterno gli farà riparo del continuo, e abiterà fra le colline di lui.   
+<br /><span class="verse" id="13">13 </span>Poi disse di Giuseppe: Il suo paese sarà benedetto dall’Eterno coi doni più preziosi del cielo, con la rugiada, con le acque dell’abisso che giace in basso,   
+<br /><span class="verse" id="14">14 </span>coi frutti più preziosi che il sole matura, con le cose più squisite che ogni luna arreca,   
+<br /><span class="verse" id="15">15 </span>coi migliori prodotti de’ monti antichi, coi doni più preziosi de’ colli eterni, coi doni più preziosi della terra e di quanto essa racchiude.   
+<br /><span class="verse" id="16">16 </span>Il favor di colui che stava nel pruno venga sul capo di Giuseppe, sulla fronte di colui ch’è principe tra i suoi fratelli!   
+<br /><span class="verse" id="17">17 </span>Del suo toro primogenito egli ha la maestà; le sue corna son corna di bufalo. Con esse darà di cozzo ne’ popoli tutti quanti assieme, fino alle estremità della terra. Tali sono le miriadi d’Efraim, tali sono le migliaia di Manasse.   
+<br /><span class="verse" id="18">18 </span>Poi disse di Zabulon: Rallegrati, o Zabulon, nel tuo uscire, e tu, Issacar, nelle tue tende!   
+<br /><span class="verse" id="19">19 </span>Essi chiameranno i popoli al monte, e quivi offriranno sacrifizi di giustizia; poich’essi succhieranno la dovizia del mare e i tesori nascosti nella rena.   
+<br /><span class="verse" id="20">20 </span>Poi disse di Gad: Benedetto colui che mette Gad al largo! Egli sta nella sua dimora come una leonessa, e sbrana braccio e cranio.   
+<br /><span class="verse" id="21">21 </span>Ei s’è scelto le primizie del paese, poiché quivi è la parte riserbata al condottiero, ed egli v’è giunto alla testa del popolo, ha compiuto la giustizia dell’Eterno e i suoi decreti, insieme ad Israele’.   
+<br /><span class="verse" id="22">22 </span>Poi disse di Dan: Dan è un leoncello, che balza da Basan.   
+<br /><span class="verse" id="23">23 </span>Poi disse di Neftali: O Neftali, sazio di favori e ricolmo di benedizioni dell’Eterno, prendi possesso dell’occidente e del mezzodì!’   
+<br /><span class="verse" id="24">24 </span>Poi disse di Ascer: Benedetto sia Ascer tra i figliuoli d’Israele! Sia il favorito de’ suoi fratelli, e tuffi il suo piè nell’olio!   
+<br /><span class="verse" id="25">25 </span>Sian le sue sbarre di ferro e di rame, e duri quanto i tuoi giorni la tua quiete!   
+<br /><span class="verse" id="26">26 </span>O Ieshurun, nessuno è pari a Dio che, sul carro dei cieli, corre in tuo aiuto, che, nella sua maestà, s’avanza sulle nubi:   
+<br /><span class="verse" id="27">27 </span>l’Iddio che ab antico è il tuo rifugio; e sotto a te stanno le braccia eterne. Egli scaccia d’innanzi a te il nemico, e ti dice: ‘Distruggi!’   
+<br /><span class="verse" id="28">28 </span>Israele starà sicuro nella sua dimora; la sorgente di Giacobbe sgorgherà solitaria in un paese di frumento e di mosto, e dove il cielo stilla la rugiada.   
+<br /><span class="verse" id="29">29 </span>Te felice, o Israele! Chi è pari a te, un popolo salvato dall’Eterno, ch’è lo scudo che ti protegge, e la spada che ti fa trionfare? I tuoi nemici verranno a blandirti, e tu calpesterai le loro alture. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="34.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

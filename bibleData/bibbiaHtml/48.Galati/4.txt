@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Galati 4 La dignità dei figli maggiorenni </title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Galati</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a>  
+<span class="chapread">4</span> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 4 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span> Or io dico: Fin tanto che l’erede è fanciullo, non differisce in nulla dal servo, benché sia padrone di tutto;    
+<br /><span class="verse" id="2">2 </span>ma è sotto tutori e curatori fino al tempo prestabilito dal padre.   
+<br /><span class="verse" id="3">3 </span>Così anche noi, quando eravamo fanciulli, eravamo tenuti in servitù sotto gli elementi del mondo;   
+<br /><span class="verse" id="4">4 </span>ma quando giunse la pienezza de’ tempi, Iddio mandò il suo Figliuolo, nato di donna, nato sotto la legge,   
+<br /><span class="verse" id="5">5 </span>per riscattare quelli che erano sotto la legge, affinché noi ricevessimo l’adozione di figliuoli.   
+<br /><span class="verse" id="6">6 </span>E perché siete figliuoli, Dio ha mandato lo Spirito del suo Figliuolo nei nostri cuori, che grida: Abba, Padre.   
+<br /><span class="verse" id="7">7 </span>Talché tu non sei più servo, ma figliuolo; e se sei figliuolo, sei anche erede per grazia di Dio.   
+<br /><span class="verse" id="8">8 </span>In quel tempo, è vero, non avendo conoscenza di Dio, voi avete servito a quelli che per natura non sono dèi;   
+<br /><span class="verse" id="9">9 </span>ma ora che avete conosciuto Dio, o piuttosto che siete stati conosciuti da Dio, come mai vi rivolgete di nuovo ai deboli e poveri elementi, ai quali volete di bel nuovo ricominciare a servire?   
+<br /><span class="verse" id="10">10 </span>Voi osservate giorni e mesi e stagioni ed anni.   
+<br /><span class="verse" id="11">11 </span>Io temo, quanto a voi, d’essermi invano affaticato per voi.   
+<br /><span class="verse" id="12">12 </span>Siate come son io, fratelli, ve ne prego, perché anch’io sono come voi.   
+<br /><span class="verse" id="13">13 </span>Voi non mi faceste alcun torto; anzi sapete bene che fu a motivo di una infermità della carne che vi evangelizzai la prima volta;   
+<br /><span class="verse" id="14">14 </span>e quella mia infermità corporale che era per voi una prova, voi non la sprezzaste né l’aveste a schifo; al contrario, mi accoglieste come un angelo di Dio, come Cristo Gesù stesso.   
+<br /><span class="verse" id="15">15 </span>Dove son dunque le vostre proteste di gioia? Poiché io vi rendo questa testimonianza: che, se fosse stato possibile, vi sareste cavati gli occhi e me li avreste dati.   
+<br /><span class="verse" id="16">16 </span>Son io dunque divenuto vostro nemico dicendovi la verità?   
+<br /><span class="verse" id="17">17 </span>Costoro son zelanti di voi, ma non per fini onesti; anzi vi vogliono staccare da noi perché il vostro zelo si volga a loro.   
+<br /><span class="verse" id="18">18 </span>Or è una bella cosa essere oggetto dello zelo altrui nel bene, in ogni tempo, e non solo quando son presente fra voi.   
+<br /><span class="verse" id="19">19 </span>Figliuoletti miei, per i quali io son di nuovo in doglie finché Cristo sia formato in voi,   
+<br /><span class="verse" id="20">20 </span>oh come vorrei essere ora presente fra voi e cambiar tono perché son perplesso riguardo a voi!   
+<br /><span class="verse" id="21">21 </span>Ditemi: Voi che volete esser sotto la legge, non ascoltate voi la legge?   
+<br /><span class="verse" id="22">22 </span>Poiché sta scritto che Abramo ebbe due figliuoli: uno dalla schiava, e uno dalla donna libera;   
+<br /><span class="verse" id="23">23 </span>ma quello dalla schiava nacque secondo la carne; mentre quello dalla libera nacque in virtù della promessa.   
+<br /><span class="verse" id="24">24 </span>Le quali cose hanno un senso allegorico; poiché queste donne sono due patti, l’uno, del monte Sinai, genera per la schiavitù, ed è Agar.   
+<br /><span class="verse" id="25">25 </span>Infatti Agar, è il monte Sinai in Arabia, e corrisponde alla Gerusalemme del tempo presente, la quale è schiava coi suoi figliuoli.   
+<br /><span class="verse" id="26">26 </span>Ma la Gerusalemme di sopra è libera, ed essa è nostra madre.   
+<br /><span class="verse" id="27">27 </span>Poich’egli è scritto: Rallegrati, o sterile che non partorivi! Prorompi in grida, tu che non avevi sentito doglie di parto! Poiché i figliuoli dell’abbandonata saranno più numerosi di quelli di colei che aveva il marito.   
+<br /><span class="verse" id="28">28 </span>Ora voi, fratelli, siete figliuoli della promessa alla maniera d’Isacco.   
+<br /><span class="verse" id="29">29 </span>Ma come allora colui ch’era nato secondo la carne perseguitava il nato secondo lo Spirito, così succede anche ora.   
+<br /><span class="verse" id="30">30 </span>Ma che dice la Scrittura? Caccia via la schiava e il suo figliuolo; perché il figliuolo della schiava non sarà erede col figliuolo della libera.   
+<br /><span class="verse" id="31">31 </span>Perciò, fratelli, noi non siam figliuoli della schiava, ma della libera. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="5.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

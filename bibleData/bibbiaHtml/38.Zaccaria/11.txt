@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Zaccaria 11: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Zaccaria</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a> 
+<a href="10.htm#0" class="chap">10</a>  
+<span class="chapread">11</span> 
+<a href="12.htm#0" class="chap">12</a> 
+<a href="13.htm#0" class="chap">13</a> 
+<a href="14.htm#0" class="chap">14</a> 
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 11 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>Libano, apri le tue porte, e il fuoco divori i tuoi cedri!   
+<br /><span class="verse" id="2">2 </span>Urla, cipresso, perché il cedro è caduto, e gli alberi magnifici son devastati! Urlate, querce di Basan, perché la foresta impenetrabile è abbattuta!   
+<br /><span class="verse" id="3">3 </span>S’odono i lamenti de’ pastori perché la loro magnificenza è devastata; s’ode il ruggito dei leoncelli perché le rive lussureggianti del Giordano son devastate.   
+<br /><span class="verse" id="4">4 </span>Così parla l’Eterno, il mio Dio: ‘Pasci le mie pecore destinate al macello,   
+<br /><span class="verse" id="5">5 </span>che i compratori uccidono senza rendersi colpevoli, e delle quali i venditori dicono: - Sia benedetto l’Eterno! io m’arricchisco, - e che i loro pastori non risparmiano affatto.   
+<br /><span class="verse" id="6">6 </span>Poiché io non risparmierò più gli abitanti del paese, dice l’Eterno, anzi, ecco, io abbandonerò gli uomini, ognuno in balìa del suo prossimo e in balìa del suo re; essi schiacceranno il paese, e io non libererò alcuno dalle lor mani’.   
+<br /><span class="verse" id="7">7 </span>Allora io mi misi a pascere le pecore destinate al macello, e perciò le più misere del gregge; e mi presi due verghe; chiamai l’una Favore e l’altra Vincoli, e mi misi a pascere il gregge.   
+<br /><span class="verse" id="8">8 </span>E sterminai i tre pastori in un mese; l’anima mia perdette la pazienza con loro, e anche l’anima loro m’avea preso a sdegno.   
+<br /><span class="verse" id="9">9 </span>E io dissi: ‘Non vi pascerò più; la moribonda muoia, quella che sta per perire perisca, e quelle che restano, divorino l’una la carne dell’altra’.   
+<br /><span class="verse" id="10">10 </span>E presi la mia verga Favore e la spezzai, per annullare il patto che avevo stretto con tutti i popoli.   
+<br /><span class="verse" id="11">11 </span>E quello fu annullato in quel giorno; e le pecore più misere del gregge che m’osservavano, conobbero che quella era la parola dell’Eterno.   
+<br /><span class="verse" id="12">12 </span>E io dissi loro: ‘Se vi par bene, datemi il mio salario; se no, lasciate stare’. Ed essi mi pesarono il mio salario; trenta sicli d’argento.   
+<br /><span class="verse" id="13">13 </span>E l’Eterno mi disse: ‘Gettalo per il vasaio, questo magnifico prezzo al quale m’hanno stimato!’ E io presi i trenta sicli d’argento, e li gettai nella casa dell’Eterno per il vasaio.   
+<br /><span class="verse" id="14">14 </span>Poi spezzai l’altra verga Vincoli, per rompere la fratellanza fra Giuda e Israele.   
+<br /><span class="verse" id="15">15 </span>E l’Eterno mi disse: ‘Prenditi anche gli arnesi d’un pastore insensato.   
+<br /><span class="verse" id="16">16 </span>Perché, ecco, io susciterò nel paese un pastore che non si curerà delle pecore che periscono, non cercherà le disperse, non guarirà le ferite, non nutrirà quelle che stanno in piè, ma mangerà la carne delle grasse, e strapperà loro fino le unghie’.   
+<br /><span class="verse" id="17">17 </span>Guai al pastore da nulla, che abbandona il gregge! La spada gli colpirà il braccio e l’occhio destro. Il braccio gli seccherà del tutto, e l’occhio destro gli si spegnerà interamente. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="12.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

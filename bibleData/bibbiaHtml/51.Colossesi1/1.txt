@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Colossesi 1 Ringraziamento </title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Colossesi</h1>
+ <p class="ym-noprint">  
+<span class="chapread">1</span> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 1 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span> Paolo, apostolo di Cristo Gesù per volontà di Dio, e il fratello Timoteo,    
+<br /><span class="verse" id="2">2 </span>ai santi e fedeli fratelli in Cristo che sono in Colosse, grazia a voi e pace da Dio nostro Padre.   
+<br /><span class="verse" id="3">3 </span>Noi rendiamo grazie a Dio, Padre del Signor nostro Gesù Cristo, nelle continue preghiere che facciamo per voi,   
+<br /><span class="verse" id="4">4 </span>avendo udito parlare della vostra fede in Cristo Gesù e dell’amore che avete per tutti i santi,   
+<br /><span class="verse" id="5">5 </span>a motivo della speranza che vi è riposta nei cieli; speranza che avete da tempo conosciuta mediante la predicazione della verità del Vangelo   
+<br /><span class="verse" id="6">6 </span>che è pervenuto sino a voi, come sta portando frutto e crescendo in tutto il mondo nel modo che fa pure tra voi dal giorno che udiste e conosceste la grazia di Dio in verità,   
+<br /><span class="verse" id="7">7 </span>secondo quel che avete imparato da Epafra, il nostro caro compagno di servizio, che è fedel ministro di Cristo per voi,   
+<br /><span class="verse" id="8">8 </span>e che ci ha anche fatto conoscere il vostro amore nello Spirito.   
+<br /><span class="verse" id="9">9 </span>Perciò anche noi, dal giorno che abbiamo ciò udito, non cessiamo di pregare per voi, e di domandare che siate ripieni della profonda conoscenza della volontà di Dio in ogni sapienza e intelligenza spirituale,   
+<br /><span class="verse" id="10">10 </span>affinché camminiate in modo degno del Signore per piacergli in ogni cosa, portando frutto in ogni opera buona e crescendo nella conoscenza di Dio;   
+<br /><span class="verse" id="11">11 </span>essendo fortificati in ogni forza secondo la potenza della sua gloria, onde possiate essere in tutto pazienti e longanimi;   
+<br /><span class="verse" id="12">12 </span>e rendendo grazie con allegrezza al Padre che vi ha messi in grado di partecipare alla sorte dei santi nella luce.   
+<br /><span class="verse" id="13">13 </span>Egli ci ha riscossi dalla potestà delle tenebre e ci ha trasportati nel regno del suo amato Figliuolo,   
+<br /><span class="verse" id="14">14 </span>nel quale abbiamo la redenzione, la remissione dei peccati;   
+<br /><span class="verse" id="15">15 </span>il quale è l’immagine dell’invisibile Iddio, il primogenito d’ogni creatura;   
+<br /><span class="verse" id="16">16 </span>poiché in lui sono state create tutte le cose che sono nei cieli e sulla terra; le visibili e le invisibili; siano troni, siano signorie, siano principati, siano potestà; tutte le cose sono state create per mezzo di lui e in vista di lui;   
+<br /><span class="verse" id="17">17 </span>ed egli è avanti ogni cosa, e tutte le cose sussistono in lui.   
+<br /><span class="verse" id="18">18 </span>Ed egli è il capo del corpo, cioè della Chiesa; egli che è il principio, il primogenito dai morti, onde in ogni cosa abbia il primato.   
+<br /><span class="verse" id="19">19 </span>Poiché in lui si compiacque il Padre di far abitare tutta la pienezza   
+<br /><span class="verse" id="20">20 </span>e di riconciliare con sé tutte le cose per mezzo di lui, avendo fatto la pace mediante il sangue della croce d’esso; per mezzo di lui, dico, tanto le cose che sono sulla terra, quanto quelle che sono nei cieli.   
+<br /><span class="verse" id="21">21 </span>E voi, che già eravate estranei e nemici nella vostra mente e nelle vostre opere malvage,   
+<br /><span class="verse" id="22">22 </span>ora Iddio vi ha riconciliati nel corpo della carne di lui, per mezzo della morte d’esso, per farvi comparire davanti a sé santi e immacolati e irreprensibili,   
+<br /><span class="verse" id="23">23 </span>se pur perseverate nella fede, fondati e saldi, e non essendo smossi dalla speranza dell’Evangelo che avete udito, che fu predicato in tutta la creazione sotto il cielo, e del quale io, Paolo, sono stato fatto ministro.   
+<br /><span class="verse" id="24">24 </span>Ora io mi rallegro nelle mie sofferenze per voi; e quel che manca alle afflizioni di Cristo lo compio nella mia carne a pro del corpo di lui che è la Chiesa;   
+<br /><span class="verse" id="25">25 </span>della quale io sono stato fatto ministro, secondo l’ufficio datomi da Dio per voi di annunziare nella sua pienezza la parola di Dio,   
+<br /><span class="verse" id="26">26 </span>cioè, il mistero, che è stato occulto da tutti i secoli e da tutte le generazioni, ma che ora è stato manifestato ai santi di lui;   
+<br /><span class="verse" id="27">27 </span>ai quali Iddio ha voluto far conoscere qual sia la ricchezza della gloria di questo mistero fra i Gentili, che è Cristo in voi, speranza della gloria;   
+<br /><span class="verse" id="28">28 </span>il quale noi proclamiamo, ammonendo ciascun uomo e ciascun uomo ammaestrando in ogni sapienza, affinché presentiamo ogni uomo, perfetto in Cristo.   
+<br /><span class="verse" id="29">29 </span>A questo fine io m’affatico, combattendo secondo l’energia sua, che opera in me con potenza.</p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="2.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Esdra    10: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Esdra</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a>  
+<span class="chapread">10</span>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 10 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>Or mentre Esdra pregava e faceva questa confessione piangendo e prostrato davanti alla casa di Dio, si raunò intorno a lui una grandissima moltitudine di gente d’Israele, uomini, donne e fanciulli; e il popolo piangeva dirottamente.   
+<br /><span class="verse" id="2">2 </span>Allora Scecania, figliuolo di Jehiel, uno de’ figliuoli di Elam, prese a dire a Esdra: ‘Noi siamo stati infedeli al nostro Dio, sposando donne straniere prese dai popoli di questo paese; nondimeno, rimane ancora, a questo riguardo, una speranza a Israele.   
+<br /><span class="verse" id="3">3 </span>Facciamo un patto col nostro Dio impegnandoci a rimandare tutte queste donne e i figliuoli nati da esse, come consigliano il mio signore e quelli che tremano dinanzi ai comandamenti del nostro Dio. E facciasi quel che vuole la legge.   
+<br /><span class="verse" id="4">4 </span>Lèvati, poiché questo è affar tuo, e noi sarem teco. Fatti animo, ed agisci!’   
+<br /><span class="verse" id="5">5 </span>Allora Esdra si levò, fece giurare ai capi de’ sacerdoti, de’ Leviti, e di tutto Israele che farebbero com’era stato detto. E quelli giurarono.   
+<br /><span class="verse" id="6">6 </span>Poi Esdra si levò d’innanzi alla casa di Dio, e andò nella camera di Johanan, figliuolo di Eliascib: e come vi fu entrato, non mangiò pane né bevve acqua, perché facea cordoglio per la infedeltà di quelli ch’erano stati in esilio.   
+<br /><span class="verse" id="7">7 </span>E si bandì in Giuda e a Gerusalemme che tutti quelli della cattività si adunassero a Gerusalemme;   
+<br /><span class="verse" id="8">8 </span>e che chiunque non venisse entro tre giorni seguendo il consiglio dei capi e degli anziani, tutti i suoi beni gli sarebbero confiscati, ed egli stesso sarebbe escluso dalla raunanza de’ reduci dalla cattività.   
+<br /><span class="verse" id="9">9 </span>Così tutti gli uomini di Giuda e di Beniamino s’adunarono a Gerusalemme entro i tre giorni. Era il ventesimo giorno del nono mese. Tutto il popolo stava sulla piazza della casa di Dio, tremante per cagion di questa cosa ed a causa della gran pioggia.   
+<br /><span class="verse" id="10">10 </span>E il sacerdote Esdra si levò e disse loro: ‘Voi avete commesso una infedeltà, sposando donne straniere, e avete accresciuta la colpa d’Israele.   
+<br /><span class="verse" id="11">11 </span>Ma ora rendete omaggio all’Eterno, all’Iddio de’ vostri padri, e fate quel che a lui piace! Separatevi dai popoli di questo paese e dalle donne straniere!’   
+<br /><span class="verse" id="12">12 </span>Allora tutta la raunanza rispose e disse ad alta voce: ‘Sì, dobbiam fare come tu hai detto!   
+<br /><span class="verse" id="13">13 </span>Ma il popolo è in gran numero, e il tempo è molto piovoso e non possiamo stare allo scoperto; e questo non è affar d’un giorno o due, poiché siamo stati numerosi a commettere questo peccato.   
+<br /><span class="verse" id="14">14 </span>Rimangano dunque qui i capi di tutta la raunanza; e tutti quelli che nelle nostre città hanno sposato donne straniere vengano a tempi determinati, con gli anziani e i giudici d’ogni città, finché non sia rimossa da noi l’ardente ira del nostro Dio, per questa infedeltà’.   
+<br /><span class="verse" id="15">15 </span>Jonathan, figliuolo di Asael, e Jahzia, figliuolo di Tikva, appoggiati da Meshullam e dal Levita Hubbetai, furono i soli ad opporsi a questo;   
+<br /><span class="verse" id="16">16 </span>ma quei della cattività fecero a quel modo; e furono scelti il sacerdote Esdra e alcuni capi famiglia secondo le loro case patriarcali, tutti designati per nome, i quali cominciarono a tener adunanza il primo giorno del decimo mese, per esaminare i fatti.   
+<br /><span class="verse" id="17">17 </span>Il primo giorno del primo mese aveano finito quanto concerneva tutti quelli che aveano sposato donne straniere.   
+<br /><span class="verse" id="18">18 </span>Tra i figliuoli de’ sacerdoti questi si trovarono, che aveano sposato donne straniere: de’ figliuoli di Jeshua, figliuolo di Jotsadak, e tra i suoi fratelli: Maaseia, Eliezer, Jarib e Ghedalia,   
+<br /><span class="verse" id="19">19 </span>i quali promisero, dando la mano, di mandar via le loro mogli, e offrirono un montone come sacrifizio per la loro colpa.   
+<br /><span class="verse" id="20">20 </span>Dei figliuoli d’Immer: Hanani e Zebadia.   
+<br /><span class="verse" id="21">21 </span>De’ figliuoli di Harim: Maaseia, Elia, Scemaia, Jehiel ed Uzzia.   
+<br /><span class="verse" id="22">22 </span>De’ figliuoli di Pashur: Elioenai, Maaseia, Ishmael, Nethaneel, Jozabad, Elasa.   
+<br /><span class="verse" id="23">23 </span>Dei Leviti: Jozabad, Scimei, Kelaia, detto anche Kelita, Petahia, Giuda, ed Eliezer.   
+<br /><span class="verse" id="24">24 </span>De’ cantori: Eliascib. De’ portinai; Shallum, Telem e Uri.   
+<br /><span class="verse" id="25">25 </span>E degl’Israeliti: de’ figliuoli di Parosh: Ramia, Izzia, Malkia, Mijamin, Eleazar, Malkia e Benaia.   
+<br /><span class="verse" id="26">26 </span>De’ figliuoli di Elam: Mattania, Zaccaria, Jehiel, Abdi, Jeremoth ed Elia.   
+<br /><span class="verse" id="27">27 </span>De’ figliuoli di Zattu: Elioenai, Eliascib, Mattania, Jeremoth, Zabad e Aziza.   
+<br /><span class="verse" id="28">28 </span>De’ figliuoli di Bebai: Johanan, Hanania, Zabbai, Athlai.   
+<br /><span class="verse" id="29">29 </span>De’ figliuoli di Bani: Meshullam, Malluc, Adaia, Jashub, Sceal, e Ramoth.   
+<br /><span class="verse" id="30">30 </span>De’ figliuoli di Pahath-Moab: Adna, Kelal, Benaia, Maaseia, Mattania, Betsaleel, Binnui e Manasse.   
+<br /><span class="verse" id="31">31 </span>De’ figliuoli di Harim: Eliezer, Isscia, Malkia, Scemaia, Simeone,   
+<br /><span class="verse" id="32">32 </span>Beniamino, Malluc, Scemaria.   
+<br /><span class="verse" id="33">33 </span>De’ figliuoli di Hashum: Mattenai, Mattatta, Zabad, Elifelet, Jeremai, Manasse, Scimei.   
+<br /><span class="verse" id="34">34 </span>De’ figliuoli di Bani: Maadai, Amram, Uel,   
+<br /><span class="verse" id="35">35 </span>Benaia, Bedia, Keluhu,   
+<br /><span class="verse" id="36">36 </span>Vania, Meremoth, Eliascib,   
+<br /><span class="verse" id="37">37 </span>Mattania, Mattenai, Jaasai,   
+<br /><span class="verse" id="38">38 </span>Bani, Binnui, Scimei,   
+<br /><span class="verse" id="39">39 </span>Scelemia, Nathan, Adaia,   
+<br /><span class="verse" id="40">40 </span>Macnadbai, Shashai, Sharai,   
+<br /><span class="verse" id="41">41 </span>Azarel, Scelemia, Scemaria,   
+<br /><span class="verse" id="42">42 </span>Shallum, Amaria, Giuseppe.   
+<br /><span class="verse" id="43">43 </span>De’ figliuoli di Nebo: Jeiel, Mattithia, Zabad, Zebina, Jaddai, Joel, Benaia.   
+<br /><span class="verse" id="44">44 </span>Tutti questi avevan preso delle mogli straniere; e ve n’eran di quelli che da queste mogli avevano avuto de’ figliuoli. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="../16/1.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

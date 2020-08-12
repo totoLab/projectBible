@@ -1,0 +1,150 @@
+﻿<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>1 Samuele 24: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>1 Samuele</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a> 
+<a href="10.htm#0" class="chap">10</a> 
+<a href="11.htm#0" class="chap">11</a> 
+<a href="12.htm#0" class="chap">12</a> 
+<a href="13.htm#0" class="chap">13</a> 
+<a href="14.htm#0" class="chap">14</a> 
+<a href="15.htm#0" class="chap">15</a> 
+<a href="16.htm#0" class="chap">16</a> 
+<a href="17.htm#0" class="chap">17</a> 
+<a href="18.htm#0" class="chap">18</a> 
+<a href="19.htm#0" class="chap">19</a> 
+<a href="20.htm#0" class="chap">20</a> 
+<a href="21.htm#0" class="chap">21</a> 
+<a href="22.htm#0" class="chap">22</a> 
+<a href="23.htm#0" class="chap">23</a>  
+<span class="chapread">24</span> 
+<a href="25.htm#0" class="chap">25</a> 
+<a href="26.htm#0" class="chap">26</a> 
+<a href="27.htm#0" class="chap">27</a> 
+<a href="28.htm#0" class="chap">28</a> 
+<a href="29.htm#0" class="chap">29</a> 
+<a href="30.htm#0" class="chap">30</a> 
+<a href="31.htm#0" class="chap">31</a> 
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 24 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>  E quando Saul fu tornato dall’inseguire i Filistei, gli vennero a dire: ‘Ecco, Davide è nel deserto di En-Ghedi’.   
+<br /><span class="verse" id="2">2 </span>Allora Saul prese tremila uomini scelti fra tutto Israele, e andò in traccia di Davide e della sua gente fin sulle rocce delle capre salvatiche;   
+<br /><span class="verse" id="3">3 </span>e giunse ai parchi di pecore ch’eran presso la via; quivi era una spelonca, nella quale Saul entrò per fare i suoi bisogni. Or Davide e la sua gente se ne stavano in fondo alla spelonca.   
+<br /><span class="verse" id="4">4 </span>La gente di Davide gli disse: ‘Ecco il giorno nel quale l’Eterno ti dice: Vedi, io ti do nelle mani il tuo nemico; fa’ di lui quello che ti piacerà’. Allora Davide s’alzò, e senza farsi scorgere tagliò il lembo del mantello di Saul.   
+<br /><span class="verse" id="5">5 </span>Ma dopo, il cuore gli batté, per aver egli tagliato il lembo del mantello di Saul.   
+<br /><span class="verse" id="6">6 </span>E Davide disse alla sua gente: ‘Mi guardi l’Eterno, dal commettere contro il mio signore, ch’è l’unto dell’Eterno, l’azione di mettergli le mani addosso; poich’egli è l’unto dell’Eterno’.   
+<br /><span class="verse" id="7">7 </span>E colle sue parole Davide raffrenò la sua gente, e non le permise di gettarsi su Saul. E Saul si levò, uscì dalla spelonca e continuò il suo cammino.   
+<br /><span class="verse" id="8">8 </span>Poi anche Davide si levò, uscì dalla spelonca, e gridò dietro a Saul, dicendo: ‘O re, mio signore!’ Saul si guardò dietro, e Davide s’inchinò con la faccia a terra e si prostrò.   
+<br /><span class="verse" id="9">9 </span>Davide disse a Saul: ‘Perché dai tu retta alle parole della gente che dice: Davide cerca di farti del male?   
+<br /><span class="verse" id="10">10 </span>Ecco in quest’ora stessa tu vedi coi tuoi propri occhi che l’Eterno t’avea dato oggi nelle mie mani in quella spelonca; qualcuno mi disse di ucciderti, ma io t’ho risparmiato, e ho detto: Non metterò le mani addosso al mio signore, perch’egli è l’unto dell’Eterno.   
+<br /><span class="verse" id="11">11 </span>Ora guarda, padre mio, guarda qui nella mia mano il lembo del tuo mantello. Se io t’ho tagliato il lembo del mantello e non t’ho ucciso, puoi da questo veder chiaro che non v’è nella mia condotta né malvagità né ribellione, e che io non ho peccato contro di te, mentre tu mi tendi insidie per tòrmi la vita!   
+<br /><span class="verse" id="12">12 </span>L’Eterno sia giudice fra me e te, e l’Eterno mi vendichi di te; ma io non ti metterò le mani addosso.   
+<br /><span class="verse" id="13">13 </span>Dice il proverbio antico: - Il male vien dai malvagi; - io quindi non ti metterò le mani addosso.   
+<br /><span class="verse" id="14">14 </span>Contro chi è uscito il re d’Israele? Chi vai tu perseguitando? Un can morto, una pulce.   
+<br /><span class="verse" id="15">15 </span>Sia dunque arbitro l’Eterno, e giudichi fra me e te, e vegga e difenda la mia causa e mi renda giustizia, liberandomi dalle tue mani’.   
+<br /><span class="verse" id="16">16 </span>Quando Davide ebbe finito di dire queste parole a Saul, Saul disse: ‘È questa la tua voce, figliuol mio Davide?’ E Saul alzò la voce e pianse.   
+<br /><span class="verse" id="17">17 </span>E disse a Davide: ‘Tu sei più giusto di me, poiché tu m’hai reso bene per male, mentre io t’ho reso male per bene.   
+<br /><span class="verse" id="18">18 </span>Tu hai mostrato oggi la bontà con la quale ti conduci verso di me; poiché l’Eterno m’avea dato nelle tue mani, e tu non m’hai ucciso.   
+<br /><span class="verse" id="19">19 </span>Se uno incontra il suo nemico, lo lascia egli andarsene in pace? Ti renda dunque l’Eterno il contraccambio del bene che m’hai fatto quest’oggi!   
+<br /><span class="verse" id="20">20 </span>Ora, ecco, io so che per certo tu regnerai, e che il regno d’Israele rimarrà stabile nelle tue mani.   
+<br /><span class="verse" id="21">21 </span>Or dunque giurami nel nome dell’Eterno che non distruggerai la mia progenie dopo di me, e che non estirperai il mio nome dalla casa di mio padre’.   
+<br /><span class="verse" id="22">22 </span>E Davide lo giurò a Saul. Poi Saul se ne andò a casa sua, e Davide e la sua gente risaliron al loro forte rifugio. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="25.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

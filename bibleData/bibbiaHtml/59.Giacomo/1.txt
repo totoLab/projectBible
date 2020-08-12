@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Giacomo 1 Fede e saggezza. Povertà e ricchezza </title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Giacomo</h1>
+ <p class="ym-noprint">  
+<span class="chapread">1</span> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 1 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span> Giacomo, servitore di Dio e del Signor Gesù Cristo, alle dodici tribù che sono nella dispersione, salute.    
+<br /><span class="verse" id="2">2 </span>Fratelli miei, considerate come argomento di completa allegrezza le prove svariate in cui venite a trovarvi,   
+<br /><span class="verse" id="3">3 </span>sapendo che la prova della vostra fede produce costanza.   
+<br /><span class="verse" id="4">4 </span>E la costanza compia appieno l’opera sua in voi, onde siate perfetti e completi, di nulla mancanti.   
+<br /><span class="verse" id="5">5 </span>Che se alcuno di voi manca di sapienza, la chiegga a Dio che dona a tutti liberalmente senza rinfacciare, e gli sarà donata.   
+<br /><span class="verse" id="6">6 </span>Ma chiegga con fede, senza star punto in dubbio; perché chi dubita è simile a un’onda di mare, agitata dal vento e spinta qua e là.   
+<br /><span class="verse" id="7">7 </span>Non pensi già quel tale di ricever nulla dal Signore,   
+<br /><span class="verse" id="8">8 </span>essendo uomo d’animo doppio, instabile in tutte le sue vie.   
+<br /><span class="verse" id="9">9 </span>Or il fratello d’umil condizione si glorî della sua elevazione;   
+<br /><span class="verse" id="10">10 </span>e il ricco, della sua umiliazione, perché passerà come fior d’erba.   
+<br /><span class="verse" id="11">11 </span>Il sole si leva col suo calore ardente e fa seccare l’erba, e il fiore d’essa cade, e la bellezza della sua apparenza perisce; così anche il ricco appassirà nelle sue imprese.   
+<br /><span class="verse" id="12">12 </span>Beato l’uomo che sostiene la prova; perché, essendosi reso approvato, riceverà la corona della vita, che il Signore ha promessa a quelli che l’amano.   
+<br /><span class="verse" id="13">13 </span>Nessuno, quand’è tentato, dica: Io son tentato da Dio; perché Dio non può esser tentato dal male, né Egli stesso tenta alcuno;   
+<br /><span class="verse" id="14">14 </span>ma ognuno è tentato dalla propria concupiscenza che lo attrae e lo adesca.   
+<br /><span class="verse" id="15">15 </span>Poi la concupiscenza avendo concepito, partorisce il peccato; e il peccato, quand’è compiuto, produce la morte.   
+<br /><span class="verse" id="16">16 </span>Non errate, fratelli miei diletti;   
+<br /><span class="verse" id="17">17 </span>ogni donazione buona e ogni dono perfetto vengon dall’alto, discendendo dal Padre degli astri luminosi presso il quale non c’è variazione né ombra prodotta da rivolgimento.   
+<br /><span class="verse" id="18">18 </span>Egli ci ha di sua volontà generati mediante la parola di verità, affinché siamo in certo modo le primizie delle sue creature.   
+<br /><span class="verse" id="19">19 </span>Questo lo sapete, fratelli miei diletti; ma sia ogni uomo pronto ad ascoltare, tardo al parlare, lento all’ira;   
+<br /><span class="verse" id="20">20 </span>perché l’ira dell’uomo non mette in opra la giustizia di Dio.   
+<br /><span class="verse" id="21">21 </span>Perciò, deposta ogni lordura e resto di malizia, ricevete con mansuetudine la Parola che è stata piantata in voi, e che può salvare le anime vostre.   
+<br /><span class="verse" id="22">22 </span>Ma siate facitori della Parola e non soltanto uditori, illudendo voi stessi.   
+<br /><span class="verse" id="23">23 </span>Perché, se uno è uditore della Parola e non facitore, è simile a un uomo che mira la sua natural faccia in uno specchio;   
+<br /><span class="verse" id="24">24 </span>e quando s’è mirato se ne va, e subito dimentica qual era.   
+<br /><span class="verse" id="25">25 </span>Ma chi riguarda bene addentro nella legge perfetta, che è la legge della libertà, e persevera, questi, non essendo un uditore dimentichevole ma facitore dell’opera, sarà beato nel suo operare.   
+<br /><span class="verse" id="26">26 </span>Se uno pensa d’esser religioso, e non tiene a freno la sua lingua ma seduce il cuor suo, la religione di quel tale è vana.   
+<br /><span class="verse" id="27">27 </span>La religione pura e immacolata dinanzi a Dio e Padre è questa: visitar gli orfani e le vedove nelle loro afflizioni, e conservarsi puri dal mondo. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="2.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>2 Corinzi 12 Visioni e rivelazioni </title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>2 Corinzi</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a> 
+<a href="10.htm#0" class="chap">10</a> 
+<a href="11.htm#0" class="chap">11</a>  
+<span class="chapread">12</span> 
+<a href="13.htm#0" class="chap">13</a>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 12 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span> Bisogna gloriarmi: non è cosa giovevole, ma pure, verrò alle visioni e alle rivelazioni del Signore.    
+<br /><span class="verse" id="2">2 </span>Io conosco un uomo in Cristo, che quattordici anni fa (se fu col corpo non so, né so se fu senza il corpo; Iddio lo sa), fu rapito fino al terzo cielo.   
+<br /><span class="verse" id="3">3 </span>E so che quel tale (se fu col corpo o senza il corpo non so;   
+<br /><span class="verse" id="4">4 </span>Iddio lo sa) fu rapito in paradiso, e udì parole ineffabili che non è lecito all’uomo di proferire.   
+<br /><span class="verse" id="5">5 </span>Di quel tale io mi glorierò; ma di me stesso non mi glorierò se non nelle mie debolezze.   
+<br /><span class="verse" id="6">6 </span>Che se pur volessi gloriarmi, non sarei un pazzo, perché direi la verità; ma me ne astengo, perché nessuno mi stimi al di là di quel che mi vede essere, ovvero ode da me.   
+<br /><span class="verse" id="7">7 </span>E perché io non avessi ad insuperbire a motivo della eccellenza delle rivelazioni, m’è stata messa una scheggia nella carne, un angelo di Satana, per schiaffeggiarmi ond’io non insuperbisca.   
+<br /><span class="verse" id="8">8 </span>Tre volte ho pregato il Signore perché l’allontanasse da me;   
+<br /><span class="verse" id="9">9 </span>ed egli mi ha detto: La mia grazia ti basta, perché la mia potenza si dimostra perfetta nella debolezza. Perciò molto volentieri mi glorierò piuttosto delle mie debolezze, onde la potenza di Cristo riposi su me.   
+<br /><span class="verse" id="10">10 </span>Per questo io mi compiaccio in debolezze, in ingiurie, in necessità, in persecuzioni, in angustie per amor di Cristo; perché, quando son debole, allora sono forte.   
+<br /><span class="verse" id="11">11 </span>Son diventato pazzo; siete voi che mi ci avete costretto; poiché io avrei dovuto esser da voi raccomandato; perché in nulla sono stato da meno di cotesti sommi apostoli, benché io non sia nulla.   
+<br /><span class="verse" id="12">12 </span>Certo, i segni dell’apostolo sono stati manifestati in atto fra voi nella perseveranza a tutta prova, nei miracoli, nei prodigî ed opere potenti.   
+<br /><span class="verse" id="13">13 </span>In che siete voi stati da meno delle altre chiese se non nel fatto che io stesso non vi sono stato d’aggravio? Perdonatemi questo torto.   
+<br /><span class="verse" id="14">14 </span>Ecco, questa è la terza volta che son pronto a recarmi da voi; e non vi sarò d’aggravio, poiché io non cerco i vostri beni, ma voi; perché non sono i figliuoli che debbono far tesoro per i genitori, ma i genitori per i figliuoli.   
+<br /><span class="verse" id="15">15 </span>E io molto volentieri spenderò e sarò speso per le anime vostre. Se io v’amo tanto, devo esser da voi amato meno?   
+<br /><span class="verse" id="16">16 </span>Ma sia pure così, ch’io non vi sia stato d’aggravio; ma, forse, da uomo astuto, v’ho presi con inganno.   
+<br /><span class="verse" id="17">17 </span>Mi son io approfittato di voi per mezzo di qualcuno di quelli ch’io v’ho mandato?   
+<br /><span class="verse" id="18">18 </span>Ho pregato Tito di venire da voi, e ho mandato quell’altro fratello con lui. Tito si è forse approfittato di voi? Non abbiam noi camminato col medesimo spirito e seguito le medesime orme?   
+<br /><span class="verse" id="19">19 </span>Da tempo voi v’immaginate che noi ci difendiamo dinanzi a voi. Egli è nel cospetto di Dio, in Cristo, che noi parliamo; e tutto questo, diletti, per la vostra edificazione.   
+<br /><span class="verse" id="20">20 </span>Poiché io temo, quando verrò, di trovarvi non quali vorrei, e d’essere io stesso da voi trovato quale non mi vorreste; temo che vi siano tra voi contese, gelosie, ire, rivalità, maldicenze, insinuazioni, superbie, tumulti;   
+<br /><span class="verse" id="21">21 </span>e che al mio arrivo l’Iddio mio abbia di nuovo ad umiliarmi dinanzi a voi, ed io abbia a pianger molti di quelli che hanno per lo innanzi peccato, e non si sono ravveduti della impurità, della fornicazione e della dissolutezza a cui si erano dati. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="13.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

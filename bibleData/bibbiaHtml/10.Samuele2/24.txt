@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>2 Samuele   24: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>2 Samuele</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a> 
+<a href="10.htm#0" class="chap">10</a> 
+<a href="11.htm#0" class="chap">11</a> 
+<a href="12.htm#0" class="chap">12</a> 
+<a href="13.htm#0" class="chap">13</a> 
+<a href="14.htm#0" class="chap">14</a> 
+<a href="15.htm#0" class="chap">15</a> 
+<a href="16.htm#0" class="chap">16</a> 
+<a href="17.htm#0" class="chap">17</a> 
+<a href="18.htm#0" class="chap">18</a> 
+<a href="19.htm#0" class="chap">19</a> 
+<a href="20.htm#0" class="chap">20</a> 
+<a href="21.htm#0" class="chap">21</a> 
+<a href="22.htm#0" class="chap">22</a> 
+<a href="23.htm#0" class="chap">23</a>  
+<span class="chapread">24</span>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 24 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>Or l’Eterno s’accese di nuovo d’ira contro Israele, ed incitò Davide contro il popolo, dicendo: ‘Va’ e fa’ il censimento d’Israele e di Giuda’.   
+<br /><span class="verse" id="2">2 </span>E il re disse a Joab, ch’era il capo dell’esercito, e ch’era con lui: ‘Va’ attorno per tutte le tribù d’Israele, da Dan fino a Beer-Sheba, e fate il censimento del popolo perch’io ne sappia il numero’.   
+<br /><span class="verse" id="3">3 </span>Joab rispose al re: ‘L’Eterno, l’Iddio tuo, moltiplichi il popolo cento volte più di quello che è, e faccia sì che gli occhi del re, mio signore, possano vederlo! Ma perché il re mio signore prende egli piacere nel far questo?’   
+<br /><span class="verse" id="4">4 </span>Ma l’ordine del re prevalse contro Joab e contro i capi dell’esercito, e Joab e i capi dell’esercito partirono dalla presenza del re per andare a fare il censimento del popolo d’Israele.   
+<br /><span class="verse" id="5">5 </span>Passarono il Giordano, e si accamparono ad Aroer, a destra della città ch’è in mezzo alla valle di Gad, e presso Jazer.   
+<br /><span class="verse" id="6">6 </span>Poi andarono in Galaad e nel paese di Tahtim-Hodshi; poi andarono a Dan-Jaan e nei dintorni di Sidon;   
+<br /><span class="verse" id="7">7 </span>andarono alla fortezza di Tiro e in tutte le città degli Hivvei e dei Cananei, e finirono col mezzogiorno di Giuda, a Beer-Sheba.   
+<br /><span class="verse" id="8">8 </span>Percorsero così tutto il paese, e in capo a nove mesi e venti giorni tornarono a Gerusalemme.   
+<br /><span class="verse" id="9">9 </span>Joab rimise al re la cifra del censimento del popolo: c’erano in Israele ottocentomila uomini forti, atti a portare le armi; e in Giuda, cinquecentomila.   
+<br /><span class="verse" id="10">10 </span>E dopo che Davide ebbe fatto il censimento del popolo, provò un rimorso al cuore, e disse all’Eterno: ‘Io ho gravemente peccato in questo che ho fatto; ma ora, o Eterno, perdona l’iniquità del tuo servo, poiché io ho agito con grande stoltezza’.   
+<br /><span class="verse" id="11">11 </span>E quando Davide si fu alzato la mattina, la parola dell’Eterno fu così rivolta al profeta Gad, il veggente di Davide:   
+<br /><span class="verse" id="12">12 </span>‘Va’ a dire a Davide: Così dice l’Eterno: Io ti propongo tre cose: sceglitene una, e quella ti farò’.   
+<br /><span class="verse" id="13">13 </span>Gad venne dunque a Davide, gli riferì questo, e disse: ‘Vuoi tu sette anni di carestia nel tuo paese, ovvero tre mesi di fuga d’innanzi ai tuoi nemici che t’inseguano, ovvero tre giorni di peste nel tuo paese? Ora rifletti, e vedi che cosa io debba rispondere a colui che mi ha mandato’.   
+<br /><span class="verse" id="14">14 </span>E Davide disse a Gad: ‘Io sono in una grande angoscia! Ebbene, che cadiamo nelle mani dell’Eterno, giacché le sue compassioni sono immense; ma ch’io non cada nelle mani degli uomini!’   
+<br /><span class="verse" id="15">15 </span>Così l’Eterno mandò la peste in Israele, da quella mattina fino al tempo fissato; e da Dan a Beer-Sheba morirono settantamila persone del popolo.   
+<br /><span class="verse" id="16">16 </span>E come l’angelo stendeva la sua mano su Gerusalemme per distruggerla, l’Eterno si pentì della calamità ch’egli aveva inflitta, e disse all’angelo che distruggeva il popolo: ‘Basta; ritieni ora la tua mano!’ Or l’angelo dell’Eterno si trovava presso l’aia di Arauna, il Gebuseo.   
+<br /><span class="verse" id="17">17 </span>E Davide, vedendo l’angelo che colpiva il popolo, disse all’Eterno: ‘Son io che ho peccato; son io che ho agito iniquamente; ma queste pecore che hanno fatto? La tua mano si volga dunque contro di me e contro la casa di mio padre!’   
+<br /><span class="verse" id="18">18 </span>E quel giorno Gad venne da Davide, e gli disse: ‘Sali, erigi un altare all’Eterno nell’aia di Arauna, il Gebuseo’.   
+<br /><span class="verse" id="19">19 </span>E Davide salì, secondo la parola di Gad, come l’Eterno avea comandato.   
+<br /><span class="verse" id="20">20 </span>Arauna guardò, e vide il re e i suoi servi, che si dirigevano verso di lui; e Arauna uscì e si prostrò dinanzi al re, con la faccia a terra.   
+<br /><span class="verse" id="21">21 </span>Poi Arauna disse: ‘Perché il re, mio signore, viene dal suo servo?’ E Davide rispose: ‘Per comprare da te quest’aia ed erigervi un altare all’Eterno, affinché la piaga cessi d’infierire sul popolo’.   
+<br /><span class="verse" id="22">22 </span>Arauna disse a Davide: ‘Il re, mio signore, prenda e offra quello che gli piacerà! Ecco i buoi per l’olocausto; e le macchine da trebbiare e gli arnesi da buoi serviranno per legna.   
+<br /><span class="verse" id="23">23 </span>Tutte queste cose, o re, Arauna te le dà’. Poi Arauna disse al re: ‘L’Eterno, il tuo Dio, ti sia propizio!’   
+<br /><span class="verse" id="24">24 </span>Ma il re rispose ad Arauna: ‘No, io comprerò da te queste cose per il loro prezzo, e non offrirò all’Eterno, al mio Dio, olocausti che non mi costino nulla’. E Davide comprò l’aia ed i buoi per cinquanta sicli d’argento;   
+<br /><span class="verse" id="25">25 </span>edificò quivi un altare all’Eterno, e offrì olocausti e sacrifizi di azioni di grazie. Così l’Eterno fu placato verso il paese, e la piaga cessò d’infierire sul popolo.</p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="../11/1.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

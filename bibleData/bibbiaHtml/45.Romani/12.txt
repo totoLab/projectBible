@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Nuovo Testamento, L'epistola ai Romani, Capitolo 12</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Romani</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a> 
+<a href="8.htm#0" class="chap">8</a> 
+<a href="9.htm#0" class="chap">9</a> 
+<a href="10.htm#0" class="chap">10</a> 
+<a href="11.htm#0" class="chap">11</a>  
+<span class="chapread">12</span> 
+<a href="13.htm#0" class="chap">13</a> 
+<a href="14.htm#0" class="chap">14</a> 
+<a href="15.htm#0" class="chap">15</a> 
+<a href="16.htm#0" class="chap">16</a>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 12 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span> Io vi esorto dunque, fratelli, per le compassioni di Dio, a presentare i vostri corpi in sacrificio vivente, santo, accettevole a Dio; il che è il vostro culto spirituale.    
+<br /><span class="verse" id="2">2 </span>E non vi conformate a questo secolo, ma siate trasformati mediante il rinnovamento della vostra mente, affinché conosciate per esperienza qual sia la volontà di Dio, la buona, accettevole e perfetta volontà.   
+<br /><span class="verse" id="3">3 </span>Per la grazia che m’è stata data, io dico quindi a ciascuno fra voi che non abbia di sé un concetto più alto di quel che deve avere, ma abbia di sé un concetto sobrio, secondo la misura della fede che Dio ha assegnata a ciascuno.   
+<br /><span class="verse" id="4">4 </span>Poiché, siccome in un solo corpo abbiamo molte membra e tutte le membra non hanno un medesimo ufficio,   
+<br /><span class="verse" id="5">5 </span>così noi, che siamo molti, siamo un solo corpo in Cristo, e, individualmente, siamo membra l’uno dell’altro.   
+<br /><span class="verse" id="6">6 </span>E siccome abbiamo dei doni differenti secondo la grazia che ci è stata data, se abbiamo dono di profezia, profetizziamo secondo la proporzione della nostra fede;   
+<br /><span class="verse" id="7">7 </span>se di ministerio, attendiamo al ministerio; se d’insegnamento, all’insegnare;   
+<br /><span class="verse" id="8">8 </span>se di esortazione, all’esortare; chi dà, dia con semplicità; chi presiede, lo faccia con diligenza; chi fa opere pietose, le faccia con allegrezza.   
+<br /><span class="verse" id="9">9 </span>L’amore sia senza ipocrisia. Aborrite il male, e attenetevi fermamente al bene.   
+<br /><span class="verse" id="10">10 </span>Quanto all’amor fraterno, siate pieni d’affezione gli uni per gli altri; quanto all’onore, prevenitevi gli uni gli altri;   
+<br /><span class="verse" id="11">11 </span>quanto allo zelo, non siate pigri; siate ferventi nello spirito, servite il Signore;   
+<br /><span class="verse" id="12">12 </span>siate allegri nella speranza, pazienti nell’afflizione, perseveranti nella preghiera;   
+<br /><span class="verse" id="13">13 </span>provvedete alle necessità dei santi, esercitate con premura l’ospitalità.   
+<br /><span class="verse" id="14">14 </span>Benedite quelli che vi perseguitano; benedite e non maledite.   
+<br /><span class="verse" id="15">15 </span>Rallegratevi con quelli che sono allegri; piangete con quelli che piangono.   
+<br /><span class="verse" id="16">16 </span>Abbiate fra voi un medesimo sentimento; non abbiate l’animo alle cose alte, ma lasciatevi attirare dalle umili. Non vi stimate savî da voi stessi.   
+<br /><span class="verse" id="17">17 </span>Non rendete ad alcuno male per male. Applicatevi alle cose che sono oneste, nel cospetto di tutti gli uomini.   
+<br /><span class="verse" id="18">18 </span>Se è possibile, per quanto dipende da voi, vivete in pace con tutti gli uomini.   
+<br /><span class="verse" id="19">19 </span>Non fate le vostre vendette, cari miei, ma cedete il posto all’ira di Dio; poiché sta scritto: A me la vendetta; io darò la retribuzione, dice il Signore.   
+<br /><span class="verse" id="20">20 </span>Anzi, se il tuo nemico ha fame, dagli da mangiare; se ha sete, dagli da bere; poiché, facendo così, tu raunerai dei carboni accesi sul suo capo.   
+<br /><span class="verse" id="21">21 </span>Non esser vinto dal male, ma vinci il male col bene. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="13.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

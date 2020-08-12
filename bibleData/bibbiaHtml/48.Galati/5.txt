@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Galati 5 Perserveraré nella libertà </title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>Galati</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a>  
+<span class="chapread">5</span> 
+<a href="6.htm#0" class="chap">6</a>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 5 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span> Cristo ci ha affrancati perché fossimo liberi; state dunque saldi, e non vi lasciate di nuovo porre sotto il giogo della schiavitù!    
+<br /><span class="verse" id="2">2 </span>Ecco, io, Paolo, vi dichiaro che, se vi fate circoncidere, Cristo non vi gioverà nulla.   
+<br /><span class="verse" id="3">3 </span>E da capo protesto ad ogni uomo che si fa circoncidere, ch’egli è obbligato ad osservare tutta quanta la legge.   
+<br /><span class="verse" id="4">4 </span>Voi che volete esser giustificati per la legge, avete rinunziato a Cristo; siete scaduti dalla grazia.   
+<br /><span class="verse" id="5">5 </span>Poiché, quanto a noi, è in ispirito, per fede, che aspettiamo la speranza della giustizia.   
+<br /><span class="verse" id="6">6 </span>Infatti, in Cristo Gesù, né la circoncisione né l’incirconcisione hanno valore alcuno; quel che vale è la fede operante per mezzo dell’amore.   
+<br /><span class="verse" id="7">7 </span>Voi correvate bene; chi vi ha fermati perché non ubbidiate alla verità?   
+<br /><span class="verse" id="8">8 </span>Una tal persuasione non viene da colui che vi chiama.   
+<br /><span class="verse" id="9">9 </span>Un po’ di lievito fa lievitare tutta la pasta.   
+<br /><span class="verse" id="10">10 </span>Riguardo a voi, io ho questa fiducia nel Signore, che non la penserete diversamente; ma colui che vi conturba ne porterà la pena, chiunque egli sia.   
+<br /><span class="verse" id="11">11 </span>Quanto a me, fratelli, s’io predico ancora la circoncisione, perché sono ancora perseguitato? Lo scandalo della croce sarebbe allora tolto via.   
+<br /><span class="verse" id="12">12 </span>Si facessero pur anche evirare quelli che vi mettono sottosopra!   
+<br /><span class="verse" id="13">13 </span>Perché, fratelli, voi siete stati chiamati a libertà; soltanto non fate della libertà un’occasione alla carne, ma per mezzo dell’amore servite gli uni agli altri;   
+<br /><span class="verse" id="14">14 </span>poiché tutta la legge è adempiuta in quest’unica parola: Ama il tuo prossimo come te stesso.   
+<br /><span class="verse" id="15">15 </span>Ma se vi mordete e divorate gli uni gli altri, guardate di non esser consumati gli uni dagli altri.   
+<br /><span class="verse" id="16">16 </span>Or io dico: Camminate per lo Spirito e non adempirete i desiderî della carne.   
+<br /><span class="verse" id="17">17 </span>Perché la carne ha desiderî contrarî allo Spirito, e lo Spirito ha desiderî contrarî alla carne; sono cose opposte fra loro; in guisa che non potete fare quel che vorreste.   
+<br /><span class="verse" id="18">18 </span>Ma se siete condotti dallo Spirito, voi non siete sotto la legge.   
+<br /><span class="verse" id="19">19 </span>Or le opere della carne sono manifeste, e sono: fornicazione, impurità, dissolutezza,   
+<br /><span class="verse" id="20">20 </span>idolatria, stregoneria, inimicizie, discordia, gelosia, ire, contese, divisioni,   
+<br /><span class="verse" id="21">21 </span>sètte, invidie, ubriachezze, gozzoviglie, e altre simili cose; circa le quali io vi prevengo, come anche v’ho già prevenuti, che quelli che fanno tali cose non erederanno il regno di Dio.   
+<br /><span class="verse" id="22">22 </span>Il frutto dello Spirito, invece, è amore, allegrezza, pace, longanimità, benignità, bontà, fedeltà, dolcezza, temperanza;   
+<br /><span class="verse" id="23">23 </span>contro tali cose non c’è legge.   
+<br /><span class="verse" id="24">24 </span>E quelli che son di Cristo hanno crocifisso la carne con le sue passioni e le sue concupiscenze.   
+<br /><span class="verse" id="25">25 </span>Se viviamo per lo Spirito, camminiamo altresì per lo Spirito.   
+<br /><span class="verse" id="26">26 </span>Non siamo vanagloriosi, provocandoci e invidiandoci gli uni gli altri. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="6.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

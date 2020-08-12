@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>1 Giovanni  2 Chi conosce Dio deve osservare i suoi comandamenti.  </title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>1 Giovanni</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a>  
+<span class="chapread">2</span> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a>
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 2 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span> Figliuoletti miei, io vi scrivo queste cose affinché non pecchiate; e se alcuno ha peccato, noi abbiamo un avvocato presso il Padre, cioè Gesù Cristo, il giusto;    
+<br /><span class="verse" id="2">2 </span>ed egli è la propiziazione per i nostri peccati; e non soltanto per i nostri, ma anche per quelli di tutto il mondo.   
+<br /><span class="verse" id="3">3 </span>E da questo sappiamo che l’abbiam conosciuto: se osserviamo i suoi comandamenti.   
+<br /><span class="verse" id="4">4 </span>Chi dice: Io l’ho conosciuto e non osserva i suoi comandamenti, è bugiardo, e la verità non è in lui;   
+<br /><span class="verse" id="5">5 </span>ma chi osserva la sua parola, l’amor di Dio è in lui veramente compiuto.   
+<br /><span class="verse" id="6">6 </span>Da questo conosciamo che siamo in lui: chi dice di dimorare in lui, deve, nel modo ch’egli camminò, camminare anch’esso.   
+<br /><span class="verse" id="7">7 </span>Diletti, non è un nuovo comandamento ch’io vi scrivo, ma un comandamento vecchio, che aveste dal principio: il comandamento vecchio è la Parola che avete udita.   
+<br /><span class="verse" id="8">8 </span>E però è un comandamento nuovo ch’io vi scrivo; il che è vero in lui ed in voi; perché le tenebre stanno passando, e la vera luce già risplende.   
+<br /><span class="verse" id="9">9 </span>Chi dice d’esser nella luce e odia il suo fratello, è tuttora nelle tenebre.   
+<br /><span class="verse" id="10">10 </span>Chi ama il suo fratello dimora nella luce e non v’è in lui nulla che lo faccia inciampare.   
+<br /><span class="verse" id="11">11 </span>Ma chi odia il suo fratello è nelle tenebre e cammina nelle tenebre e non sa ov’egli vada, perché le tenebre gli hanno accecato gli occhi.   
+<br /><span class="verse" id="12">12 </span>Figliuoletti, io vi scrivo perché i vostri peccati vi sono rimessi per il suo nome.   
+<br /><span class="verse" id="13">13 </span>Padri, vi scrivo perché avete conosciuto Colui che è dal principio. Giovani, vi scrivo perché avete vinto il maligno.   
+<br /><span class="verse" id="14">14 </span>Figliuoletti, v’ho scritto perché avete conosciuto il Padre. Padri, v’ho scritto perché avete conosciuto Colui che è dal principio. Giovani, v’ho scritto perché siete forti, e la parola di Dio dimora in voi, e avete vinto il maligno.   
+<br /><span class="verse" id="15">15 </span>Non amate il mondo né le cose che sono nel mondo. Se uno ama il mondo, l’amor del Padre non è in lui.   
+<br /><span class="verse" id="16">16 </span>Poiché tutto quello che è nel mondo: la concupiscenza della carne, la concupiscenza degli occhi e la superbia della vita non è dal Padre, ma è dal mondo.   
+<br /><span class="verse" id="17">17 </span>E il mondo passa via con la sua concupiscenza; ma chi fa la volontà di Dio dimora in eterno.   
+<br /><span class="verse" id="18">18 </span>Figliuoletti, è l’ultima ora; e come avete udito che l’anticristo deve venire, fin da ora sono sorti molti anticristi; onde conosciamo che è l’ultima ora.   
+<br /><span class="verse" id="19">19 </span>Sono usciti di fra noi, ma non eran de’ nostri; perché, se fossero stati de’ nostri, sarebbero rimasti con noi; ma sono usciti affinché fossero manifestati e si vedesse che non tutti sono dei nostri.   
+<br /><span class="verse" id="20">20 </span>Quanto a voi, avete l’unzione dal Santo, e conoscete ogni cosa.   
+<br /><span class="verse" id="21">21 </span>Io vi ho scritto non perché non conoscete la verità, ma perché la conoscete, e perché tutto quel ch’è menzogna non ha che fare colla verità.   
+<br /><span class="verse" id="22">22 </span>Chi è il mendace se non colui che nega che Gesù è il Cristo? Esso è l’anticristo, che nega il Padre e il Figliuolo.   
+<br /><span class="verse" id="23">23 </span>Chiunque nega il Figliuolo, non ha neppure il Padre; chi confessa il Figliuolo ha anche il Padre.   
+<br /><span class="verse" id="24">24 </span>Quant’è a voi, dimori in voi quel che avete udito dal principio. Se quel che avete udito dal principio dimora in voi, anche voi dimorerete nel Figliuolo e nel Padre.   
+<br /><span class="verse" id="25">25 </span>E questa è la promessa ch’egli ci ha fatta: cioè la vita eterna.   
+<br /><span class="verse" id="26">26 </span>Vi ho scritto queste cose intorno a quelli che cercano di sedurvi.   
+<br /><span class="verse" id="27">27 </span>Ma quant’è a voi, l’unzione che avete ricevuta da lui dimora in voi, e non avete bisogno che alcuno v’insegni; ma siccome l’unzione sua v’insegna ogni cosa, ed è verace, e non è menzogna, dimorate in lui come essa vi ha insegnato.   
+<br /><span class="verse" id="28">28 </span>Ed ora, figliuoletti, dimorate in lui, affinché, quando egli apparirà, abbiam confidanza e alla sua venuta non abbiam da ritrarci da lui, coperti di vergogna.   
+<br /><span class="verse" id="29">29 </span>Se sapete che egli è giusto, sappiate che anche tutti quelli che praticano la giustizia son nati da lui. </p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="3.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>

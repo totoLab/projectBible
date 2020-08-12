@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>2 Re 8: Antico Testamento</title>
+<meta name="description" content="Biblical scriptures in your language, chapter #" />
+<meta name="keywords" content="Holy Bible, Old and New Testaments, scriptures,  Creation, faith, heaven, hell, God, Jesus" />
+<!-- Mobile viewport optimisation -->
+<link rel="shortcut icon" href="../../favicon.ico?v=2" type="image/x-icon" />
+<link href="../../apple-touch-icon.png" rel="apple-touch-icon" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/css.css" />
+<link rel="stylesheet" type="text/css" href="../_assets/css/style.css" />
+</head>
+<body>
+<header class="ym-noprint">
+<div id="mytop" class="ym-wrapper">
+<div class="ym-wbox">
+<span class="wp"><strong><a class="wplink" href="#" target="_top">W</a><a class="wplink" href="#" target="_top">P</a></strong></span>
+</div>
+</div>
+</header>
+
+<nav id="nav">
+<div class="ym-wrapper">
+<div class="ym-hlist">
+<ul>
+<li><a title="Other languages" href="https://www.wordproject.org/bibles/index.htm" target="_self">More Bibles</a></li>
+<li><a title="Audio Bibles in different languages" href="https://www.wordproject.org/bibles/audio/index.htm" target="_top">Audio Bibles</a></li>
+<!--li><a title="Search this Bible" href="search.html" target="_top">Search</a></li-->
+</ul>
+</div>
+</div>
+</nav>
+<div class="ym-wrapper ym-noprint">
+<div class="ym-wbox">
+
+<div class=" ym-grid">
+<div class="ym-g62 ym-gl breadCrumbs"> <a title="Bible Book Index" href="../index.htm" target="_self">Bible</a> /  <a href="../index.htm" target="_self">@ language</a></div>
+</div>
+</div>
+</div>
+<div id="main" class="ym-clearfix" role="main">
+<div class="ym-wrapper"> 
+<div class="ym-wbox">
+
+<div class="textHeader">
+
+<h1>2 Re</h1>
+ <p class="ym-noprint">  
+<a href="1.htm#0" class="chap">1</a> 
+<a href="2.htm#0" class="chap">2</a> 
+<a href="3.htm#0" class="chap">3</a> 
+<a href="4.htm#0" class="chap">4</a> 
+<a href="5.htm#0" class="chap">5</a> 
+<a href="6.htm#0" class="chap">6</a> 
+<a href="7.htm#0" class="chap">7</a>  
+<span class="chapread">8</span> 
+<a href="9.htm#0" class="chap">9</a> 
+<a href="10.htm#0" class="chap">10</a> 
+<a href="11.htm#0" class="chap">11</a> 
+<a href="12.htm#0" class="chap">12</a> 
+<a href="13.htm#0" class="chap">13</a> 
+<a href="14.htm#0" class="chap">14</a> 
+<a href="15.htm#0" class="chap">15</a> 
+<a href="16.htm#0" class="chap">16</a> 
+<a href="17.htm#0" class="chap">17</a> 
+<a href="18.htm#0" class="chap">18</a> 
+<a href="19.htm#0" class="chap">19</a> 
+<a href="20.htm#0" class="chap">20</a> 
+<a href="21.htm#0" class="chap">21</a> 
+<a href="22.htm#0" class="chap">22</a> 
+<a href="23.htm#0" class="chap">23</a> 
+<a href="24.htm#0" class="chap">24</a> 
+<a href="25.htm#0" class="chap">25</a> 
+</p>
+</div>
+<!--end of chapters-->
+<!--Nav left right--><div id="0" > </div><!--SizeText-->
+<div class="shareright"><a class="decreaseFont ym-button2">-</a><a class="resetFont ym-button2">Reset</a><a class="increaseFont ym-button2">+</a>
+</div>
+<!--/SizeText-->
+<div class="textOptions"> 
+<div class="textBody" id="textBody">
+<h3>Capitolo 8 </h3>
+<!--... the Word of God:--><span class="dimver"> 
+</span>
+<p><span class="verse" id="1">1 </span>Or Eliseo avea detto alla donna di cui avea risuscitato il figliuolo: ‘Lèvati, vattene, tu con la tua famiglia, a soggiornare all’estero, dove potrai; perché l’Eterno ha chiamata la carestia, e difatti essa verrà nel paese per sette anni’.   
+<br /><span class="verse" id="2">2 </span>E la donna si levò, e fece come le avea detto l’uomo di Dio; se ne andò con la sua famiglia, e soggiornò per sette anni nel paese de’ Filistei.   
+<br /><span class="verse" id="3">3 </span>Finiti i sette anni, quella donna tornò dal paese de’ Filistei, e andò a ricorrere al re per riavere la sua casa e le sue terre.   
+<br /><span class="verse" id="4">4 </span>Or il re discorreva con Ghehazi, servo dell’uomo di Dio, e gli diceva: ‘Ti prego raccontami tutte le cose grandi che ha fatte Eliseo’.   
+<br /><span class="verse" id="5">5 </span>E mentre appunto Ghehazi raccontava al re come Eliseo aveva risuscitato il morto, ecco che la donna, di cui era stato risuscitato il figliuolo, venne a ricorrere al re per riavere la sua casa e le sue terre. E Ghehazi disse: ‘O re, mio signore, questa è quella donna, e questo è il suo figliuolo, che Eliseo ha risuscitato’.   
+<br /><span class="verse" id="6">6 </span>Il re interrogò la donna, che gli raccontò tutto; e il re le dette un eunuco, al quale disse: ‘Falle restituire tutto quello ch’è suo, e tutte le rendite delle terre, dal giorno in cui ella lasciò il paese, fino ad ora’.   
+<br /><span class="verse" id="7">7 </span>Or Eliseo si recò a Damasco; Ben-Hadad, re di Siria, era ammalato, e gli fu riferito che l’uomo di Dio era giunto colà.   
+<br /><span class="verse" id="8">8 </span>Allora il re disse ad Hazael: ‘Prendi teco un regalo, va’ incontro all’uomo di Dio, e consulta per mezzo di lui l’Eterno, per sapere se io guarirò da questa malattia’.   
+<br /><span class="verse" id="9">9 </span>Hazael dunque andò incontro ad Eliseo, portando seco in regalo tutto quello che v’era di meglio in Damasco: un carico di quaranta cammelli. Come fu giunto, si presentò ad Eliseo, e gli disse: ‘Il tuo figliuolo Ben-Hadad, re di Siria, mi ha mandato a te per dirti: ‘Guarirò io da questa malattia?’   
+<br /><span class="verse" id="10">10 </span>Eliseo gli rispose: ‘Vagli a dire: - Guarirai di certo. - Ma l’Eterno m’ha fatto vedere che di sicuro morrà’.   
+<br /><span class="verse" id="11">11 </span>E l’uomo di Dio posò lo sguardo sopra Hazael, e lo fissò così a lungo, da farlo arrossire, poi si mise a piangere.   
+<br /><span class="verse" id="12">12 </span>Hazael disse: ‘Perché piange il mio signore?’ Eliseo rispose: ‘Perché so il male che tu farai ai figliuoli d’Israele; tu darai alle fiamme le loro fortezze, ucciderai la loro gioventù con la spada, schiaccerai i loro bambini, e sventrerai le loro donne incinte’.   
+<br /><span class="verse" id="13">13 </span>Hazael disse: ‘Ma che cos’è mai il tuo servo questo cane, per fare delle cose sì grandi?’ Eliseo rispose: ‘L’Eterno m’ha fatto vedere che tu sarai re di Siria’.   
+<br /><span class="verse" id="14">14 </span>Hazael si partì da Eliseo e tornò dal suo signore, che gli chiese: ‘Che t’ha detto Eliseo?’ Quegli rispose: ‘Mi ha detto che guarirai di certo’.   
+<br /><span class="verse" id="15">15 </span>Il giorno dopo, Hazael prese una coperta, la tuffò nell’acqua, e la distese sulla faccia di Ben-Hadad, che morì. E Hazael regnò in luogo suo.   
+<br /><span class="verse" id="16">16 </span>Or l’anno quinto di Joram, figliuolo di Achab, re d’Israele, Jehoram, figliuolo di Giosafat re di Giuda, cominciò a regnare su Giuda.   
+<br /><span class="verse" id="17">17 </span>Avea trentadue anni quando cominciò a regnare, e regnò otto anni in Gerusalemme.   
+<br /><span class="verse" id="18">18 </span>E camminò per la via dei re d’Israele, come avea fatto la casa di Achab; poiché avea per moglie una figliuola di Achab; e fece ciò ch’è male agli occhi dell’Eterno.   
+<br /><span class="verse" id="19">19 </span>Nondimeno l’Eterno non volle distrugger Giuda, per amor di Davide suo servo, conformemente alla promessa fattagli di lasciar sempre una lampada a lui ed ai suoi figliuoli.   
+<br /><span class="verse" id="20">20 </span>Ai tempi suoi, Edom si ribellò, sottraendosi al giogo di Giuda e si dette un re.   
+<br /><span class="verse" id="21">21 </span>Allora Joram passò a Tsair con tutti i suoi carri; e una notte si levò, e sconfisse gli Edomiti che lo aveano accerchiato e i capitani dei carri; e la gente di Joram poté fuggire alle proprie case.   
+<br /><span class="verse" id="22">22 </span>Così Edom si è ribellato e si è sottratto al giogo di Giuda fino al dì d’oggi. In quel medesimo tempo, anche Libna si ribellò.   
+<br /><span class="verse" id="23">23 </span>Il rimanente delle azioni di Joram e tutto quello che fece, si trova scritto nel libro delle Cronache dei re di Giuda.   
+<br /><span class="verse" id="24">24 </span>E Joram si addormentò coi suoi padri, e coi suoi padri fu sepolto nella città di Davide. E Achazia, suo figliuolo, regnò in luogo suo.   
+<br /><span class="verse" id="25">25 </span>L’anno dodicesimo di Joram, figliuolo di Achab, re d’Israele, Achazia, figliuolo di Jehoram re di Giuda, cominciò a regnare.   
+<br /><span class="verse" id="26">26 </span>Aveva ventidue anni, quando cominciò a regnare, e regnò un anno in Gerusalemme. Sua madre si chiamava Athalia, nipote di Omri, re d’Israele.   
+<br /><span class="verse" id="27">27 </span>Egli camminò per la via della casa di Achab, e fece ciò ch’è male agli occhi dell’Eterno, come la casa di Achab, perché era imparentato con la casa di Achab.   
+<br /><span class="verse" id="28">28 </span>E andò con Joram, figliuolo di Achab, a combattere contro Hazael, re di Siria, a Ramoth di Galaad; e i Sirî ferirono Joram;   
+<br /><span class="verse" id="29">29 </span>e il re Joram tornò a Izreel per farsi curare delle ferite che avea ricevute dai Sirî a Ramah, quando combatteva contro Hazael, re di Siria. Ed Achazia, figliuolo di Jehoram re di Giuda, scese ad Izreel a vedere Joram, figliuolo di Achab, perché questi era ammalato.</p> <!--... sharper than any twoedged sword... -->
+</div> <!-- /textBody -->
+</div><!-- /textOptions -->
+</div><!-- /ym-wbox end -->
+</div><!-- /ym-wrapper end -->
+</div><!-- /main -->
+<div class="ym-wrapper">
+<div class="ym-wbox">
+<div class="shareright ym-noprint">
+<!--next chapter start/Top-->
+<a class="ym-button" title="Page TOP" href="#mytop">&nbsp;<img src="../../_assets/img/arrow_up.png" class="imageatt" alt="arrowup"/>&nbsp;</a>
+<a class="ym-button" title="Next chapter" href="9.htm#0">&nbsp;<img src="../../_assets/img/arrow_right.png" class="imageatt" alt="arrowright"/>&nbsp;</a></p>
+<!--next chapter end-->
+</div>
+</div>
+</div>
+<footer>
+<div class="ym-wrapper">
+<div id="redborder" class="ym-wbox">
+<p class="alignCenter">Courtesy of Wordproject, a registered domain of <a href="#" target="_top">International Biblical Association</a>, a non-profit organization registered in Macau, China.	</p>
+</div>
+</footer>
+</body>
+<script src="../_assets/js/jquery-1.8.0.min.js"></script>
+
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.waypoints.js"></script>
+<script src="../_assets/js/sticky.js"></script>
+<script src="../_assets/js/bar-ui.js"></script>
+<script src="../_assets/js/script.js"></script>
+<script src="../_assets/js/jquery.dropotron.min.js"></script>
+<script src="../_assets/js/skel.min.js"></script>
+<script src="../_assets/js/skel-viewport.min.js"></script>
+<script src="../_assets/js/util.js"></script>
+<script src="../_assets/js/main.js"></script>
+</html>
