@@ -13,8 +13,8 @@ def deleteFromTo(dir, path):
                 pass
             newFile = '{}/{}'.format(entirePath, ('verses{}.txt'.format(i+1)))
             removeLines(processedFile, 'verse', newFile)
-            removeOldFiles(entirePath, processedFile)
-            removeHtmlJunk(newFile)
+            removeOldFiles(processedFile)
+            removeHtmlJunk(newFile, "{}/chapter{}.txt".format(entirePath, i+1))
 
 
 def removeLines(logfile, word, outfile):
@@ -23,14 +23,20 @@ def removeLines(logfile, word, outfile):
         with open(outfile, 'w') as f_out:
             f_out.writelines(lines)
 
-def removeOldFiles(path, oldFile):
+def removeOldFiles(oldFile):
     os.remove("{}".format(oldFile))
 
-#TODO
-def removeHtmlJunk(fileToClean):
-    print("remove html junk")
+def removeHtmlJunk(fileToClean, outfile):
+    with open (fileToClean, 'r' ) as f:
+        content = f.read()
+        content_new = re.sub('<[^>]+>', '', content, flags = re.M)
+        with open(outfile, 'w') as out:
+            out.write(content_new)
 
-def copyAndRename(path, bookName):
+    removeOldFiles(fileToClean)
+        
+
+def copyAndRenamePattern(path, bookName):
     shutil.copy(path, bookName + ".html")
     print("Renamed {}".format(bookName + ".html"))
     return bookName + ".html"
@@ -57,7 +63,7 @@ arrayDir = ['1.Genesi','2.Esodo','3.Levitico','4.Numeri','5.Deuteronomio','6.Gio
 def mainFunc():
     deleteFromTo(arrayDir, path)
     #for i in range(len(arrayDir)):
-        #bookName = copyAndRename(path2, arrayDir[i]) #copy example.html and rename with a bookname
+        #bookName = copyAndRenamePattern(path2, arrayDir[i]) #copy example.html and rename with a bookname
         #replaceContent(bookName, versesFromFiles)
 
 
