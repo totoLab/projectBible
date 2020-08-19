@@ -14,7 +14,8 @@ def deleteFromTo(dir, path):
             newFile = '{}/{}'.format(entirePath, ('verses{}.txt'.format(i+1)))
             removeLines(processedFile, 'verse', newFile)
             removeOldFiles(processedFile)
-            removeHtmlJunk(newFile, "{}/chapter{}.txt".format(entirePath, i+1))
+            removeHtmlJunk(newFile, "{}/firstchapter{}.txt".format(entirePath, i+1), ['<[^>]+>', ''])
+            #removeHtmlJunk("{}/firstchapter{}.txt".format(entirePath, i+1), "{}/chapter{}.txt".format(entirePath, i+1), ['((?<=\d)\s+|\s+$)', ' ']) #it shows errors but has none
 
 
 def removeLines(logfile, word, outfile):
@@ -26,10 +27,10 @@ def removeLines(logfile, word, outfile):
 def removeOldFiles(oldFile):
     os.remove("{}".format(oldFile))
 
-def removeHtmlJunk(fileToClean, outfile):
+def removeHtmlJunk(fileToClean, outfile, regex):
     with open (fileToClean, 'r' ) as f:
         content = f.read()
-        content_new = re.sub('<[^>]+>', '', content, flags = re.M)
+        content_new = re.sub(regex[0], regex[1], content, flags = re.M)
         with open(outfile, 'w') as out:
             out.write(content_new)
 
