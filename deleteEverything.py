@@ -18,7 +18,7 @@ def deleteFromTo(dir, path):
             removeHtmlJunk(newFile, "{}/load1{}.txt".format(entirePath, i+1), ['<[^>]+>', ''])
             removeHtmlJunk("{}/load1{}.txt".format(entirePath, i+1), "{}/load2{}.txt".format(entirePath, i+1), ['((?<=\d)\s+|\s+$)', ' ']) #it shows errors but has none
             removeHtmlJunk("{}/load2{}.txt".format(entirePath, i+1), "{}/load3{}.txt".format(entirePath, i+1), ['$', '</section>'])
-            removeHtmlJunk("{}/load3{}.txt".format(entirePath, i+1), "{}/chapter{}.txt".format(entirePath, i+1), ['^', '<section>'])
+            removeHtmlJunk("{}/load3{}.txt".format(entirePath, i+1), "{}/chapter{}.txt".format(entirePath, i+1), ['^', '    <section>'])
 
 
 def removeLines(logfile, word, outfile):
@@ -43,16 +43,30 @@ def removeHtmlJunk(fileToModify, outfile, regex):
 def copyAndRenamePattern(path, bookName):
     shutil.copy(path, bookName + ".html")
     print("Renamed {}".format(bookName + ".html"))
-    return bookName + ".html"
+    return bookName
 
 #TODO test, copied from stackoverflow
-def replaceContent(path, bookName):
+def replaceContent(path, bookName, bookIndex):
+    listOfFiles = []
     titleOfTheDoc = ['bookTitle', bookName]
-    #parsedVerses = ['actualVerses', 0]
-    #regex = [titleOfTheDoc, parsedVerses]
-    #for i in range(2):
-    removeHtmlJunk("{}{}".format(path, bookName), "{}test{}".format(path, bookName), titleOfTheDoc) #add in this case
+    removeHtmlJunk("{}{}.html".format(path, bookName), "{}firsttest{}.html".format(path, bookName), titleOfTheDoc) #add in this case
+    for i in range(len([name for name in os.listdir("{}{}".format(path1, bookName))])):
+        listOfFiles.append("{}/{}{}.txt".format(path1 + bookName, "chapter", i+1))
         
+    joinFiles(listOfFiles, bookIndex)
+
+def joinFiles(filesToJoin, bookIndex):
+    #read content of every file, join together in a string
+    #(add dividers between files - chapters) and substitute to the string actual verses
+    with open('{}.txt'.format(arrayDir[bookIndex]), 'w') as outfile:
+        outfile.write("<section>{}</section>\n\n".format(arrayDir[bookIndex]))
+        for names in filesToJoin: 
+            with open(names) as infile:
+                outfile.write("<section>{} Capitolo {}\n    <section></section>\n".format(arrayDir[bookIndex], filesToJoin.index(names)+1))
+                outfile.write(infile.read()) 
+                outfile.write("\n</section>\n")
+
+            outfile.write("\n")
 
 #TODO
 def copyVersesToFinalFiles(bookName, verses):
@@ -66,7 +80,7 @@ def mainFunc():
     deleteFromTo(arrayDir, path1)
     for i in range(1):#len(arrayDir)):
         bookName = copyAndRenamePattern(path2, arrayDir[i]) #copy example.html and rename with a bookname
-        replaceContent(path3, bookName)
+        replaceContent(path3, bookName, i)
 
 
 mainFunc()
